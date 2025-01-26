@@ -19,7 +19,7 @@
 
 ### Pasos para desplegar el proyecto
 
-#### Paso 1: Clonar el repositorio en tu IDE
+## Paso 1: Clonar el repositorio en tu IDE
 
 1. Abre tu IDE preferido, como IntelliJ, Visual Studio Code o cualquier otro que soporte proyectos de Python.
 2. Clona el repositorio desde GitHub directamente en el IDE:

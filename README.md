@@ -45,6 +45,18 @@ Para iniciar la aplicación Flask, sigue estos pasos:
 2. Ejecuta el archivo `app.py` con el siguiente comando:
    ```bash
    python app.py
-3.Por defecto, el servidor estará disponible en la siguiente URL:
+3. Por defecto, el servidor estará disponible en la siguiente URL:
    ```bash
    http://127.0.0.1:5000/
+
+## Estructura del Proyecto
+  El proyecto está organizado de la siguiente manera:
+  
+  ```plaintext
+  |-- app.py                  # Archivo principal para iniciar la aplicación Flask
+  |-- mi_modulo_dietas.py     # Módulo que contiene las funciones de generación de dietas
+  |-- train_model.py          # Script para entrenar y guardar el modelo
+  |-- templates/              # Archivos HTML para las vistas del prototipo
+  |-- static/                 # Archivos estáticos como imágenes o CSS
+  |-- Tabla_de_alimentos_ajustada.csv # Archivo de datos nutricionales
+  |-- modelo_ganador.pkl      # Modelo preentrenado (se genera tras ejecutar train_model.py)

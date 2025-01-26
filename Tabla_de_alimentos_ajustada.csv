@@ -1,0 +1,513 @@
+alimento,categoria,calorias,proteinas,carbohidratos,grasas,fibra,region,preparacion
+Sopa de Verduras,Primero,80,3,12,2,3
+Ensalada César,Primero,140,8,10,8,2
+Arroz con Pollo,Segundo,360,26,40,12,2
+Filete de Ternera,Segundo,380,36,0,20,0
+Flan de Vainilla,Postre,190,4,28,6,0
+Helado de Chocolate,Postre,240,4,30,12,1
+Paella,Segundo,390,22,48,14,3
+Gazpacho,Primero,75,2,12,3,2
+Pollo al Ajillo,Segundo,300,28,6,18,1
+Tarta de Queso,Postre,290,7,32,14,1
+Croquetas,Primero,140,6,18,6,2
+Chuleta de Cerdo,Segundo,410,32,0,32,0
+Natillas,Postre,170,4,24,6,0
+Lentejas,Primero,115,10,18,1,7
+Merluza a la Plancha,Segundo,190,24,0,8,0
+Tiramisú,Postre,340,5,42,14,1
+Salmorejo,Primero,145,3,13,9,2
+Cordero Asado,Segundo,440,38,0,28,0
+Arroz con Leche,Postre,215,5,38,4,1
+Pizza Margarita,Primero,240,11,28,9,2
+Bacalao,Segundo,175,26,0,7,0
+Brownie,Postre,310,4,38,14,2
+Ensalada Mixta,Primero,85,3,9,4,2
+Albóndigas,Segundo,340,28,18,14,3
+Crema Catalana,Postre,200,4,32,6,0
+Tortilla de Patatas,Primero,190,6,18,8,2
+Salmón,Segundo,270,24,0,16,0
+Coulant de Chocolate,Postre,390,5,42,18,2
+Quinoa con Verduras,Primero,175,6,28,4,3
+Pollo Asado,Segundo,300,26,0,18,0
+Mousse de Limón,Postre,140,3,18,5,0
+Potaje de Garbanzos,Primero,230,13,33,5,7
+Solomillo de Cerdo,Segundo,370,31,0,25,0
+Tarta de Manzana,Postre,280,4,42,11,2
+Calamares a la Romana,Primero,180,9,8,9,0
+Costillas de Cerdo,Segundo,440,34,0,33,0
+Macedonia de Frutas,Postre,95,1,22,0,3
+Vichyssoise,Primero,105,2,14,4,2
+Hamburguesa,Segundo,490,27,36,24,2
+Panna Cotta,Postre,310,6,38,14,0
+Couscous,Primero,145,5,28,2,3
+Rabo de Toro,Segundo,420,36,0,28,0
+Bizcocho,Postre,275,6,42,9,1
+Alubias con Chorizo,Primero,250,16,32,9,7
+Pechuga de Pavo,Segundo,195,31,0,6,0
+Profiteroles,Postre,340,5,38,16,1
+Sopa de Verduras,Primero,80,3,12,2,3
+Ensalada César,Primero,140,8,10,8,2
+Arroz con Pollo,Segundo,360,26,40,12,2
+Filete de Ternera,Segundo,380,36,0,20,0
+alimento,categoria,calorias,proteinas,carbohidratos,grasas,fibra
+Flan de Vainilla,Postre,190,5,28,6,0
+Helado de Chocolate,Postre,240,4,30,12,1
+Paella,Segundo,390,22,48,14,3
+Gazpacho,Primero,75,2,12,3,2
+Pollo al Ajillo,Segundo,310,28,6,18,1
+Tarta de Queso,Postre,290,7,32,14,1
+Croquetas,Primero,140,6,18,6,2
+Chuleta de Cerdo,Segundo,410,32,0,32,0
+Natillas,Postre,170,4,24,6,0
+Lentejas,Primero,115,10,18,1,7
+Merluza a la Plancha,Segundo,190,24,0,8,0
+Tiramisú,Postre,340,5,42,14,1
+Salmorejo,Primero,145,3,13,9,2
+Cordero Asado,Segundo,440,38,0,28,0
+Arroz con Leche,Postre,215,5,38,4,1
+Pizza Margarita,Primero,240,11,28,9,2
+Bacalao,Segundo,175,26,0,7,0
+Brownie,Postre,310,4,38,14,2
+Ensalada Mixta,Primero,85,3,9,4,2
+Albóndigas,Segundo,340,28,18,14,3
+Crema Catalana,Postre,200,4,32,6,0
+Tortilla de Patatas,Primero,190,6,18,8,2
+Salmón,Segundo,270,24,0,16,0
+Coulant de Chocolate,Postre,390,5,42,18,2
+Quinoa con Verduras,Primero,175,6,28,4,3
+Pollo Asado,Segundo,300,26,0,18,0
+Mousse de Limón,Postre,140,3,18,5,0
+Potaje de Garbanzos,Primero,230,13,33,5,7
+Solomillo de Cerdo,Segundo,370,31,0,25,0
+Tarta de Manzana,Postre,280,4,42,11,2
+Calamares a la Romana,Primero,180,9,8,9,0
+Costillas de Cerdo,Segundo,440,34,0,33,0
+Macedonia de Frutas,Postre,95,1,22,0,3
+Vichyssoise,Primero,105,2,14,4,2
+Hamburguesa,Segundo,490,27,36,24,2
+Panna Cotta,Postre,310,6,38,14,0
+Couscous,Primero,145,5,28,2,3
+Rabo de Toro,Segundo,420,36,0,28,0
+Bizcocho,Postre,275,6,42,9,1
+Alubias con Chorizo,Primero,250,16,32,9,7
+Pechuga de Pavo,Segundo,195,31,0,6,0
+Profiteroles,Postre,340,5,38,16,1
+Crema de Calabaza,Primero,85,2,14,2,3
+Pollo con Almendras,Segundo,330,27,6,18,2
+Tarta de Santiago,Postre,300,6,38,13,1
+Huevos Rellenos,Primero,115,8,2,8,0
+Entrecot de Ternera,Segundo,490,39,0,33,0
+Pudín de Pan,Postre,225,6,38,6,2
+Crema de Espárragos,Primero,65,3,9,2,2
+Dorada al Horno,Segundo,240,27,0,13,0
+Helado de Vainilla,Postre,200,4,22,9,1
+Pisto Manchego,Primero,130,3,18,6,4
+Cerdo agridulce,Segundo,360,25,30,15,1
+Crema de Avellanas,Postre,290,4,28,16,2
+Empanada Gallega,Primero,220,7,28,10,2
+Salmón a la Naranja,Segundo,300,26,12,17,0
+Berenjenas Rellenas,Primero,160,6,22,8,4
+Estofado de Ternera,Segundo,380,32,18,22,3
+Tiramisú,Postre,360,6,42,14,1
+Crema de Calabacín,Primero,80,2,12,3,2
+Costillas Barbacoa,Segundo,460,28,12,32,0
+Pastel de Zanahoria,Postre,310,5,42,11,2
+Sopa de Cebolla,Primero,90,2,14,4,1
+Rollo de Carne,Segundo,420,34,8,27,1
+Tarta de Frutas,Postre,260,4,42,11,3
+Ensalada de Pollo,Primero,190,14,10,10,3
+Pechuga de Pollo,Segundo,230,32,0,11,0
+Brownie de Nueces,Postre,340,6,38,18,3
+Minestrone,Primero,120,3,16,6,3
+Cerdo al Curry,Segundo,380,30,12,26,1
+Pavlova,Postre,230,3,43,9,1
+Gazpachuelo,Primero,100,4,12,5,2
+Conejo al Ajillo,Segundo,310,29,0,16,1
+Leche Frita,Postre,290,5,43,12,1
+Ensalada de Garbanzos,Primero,150,7,22,6,6
+Filete de Cerdo,Segundo,360,31,0,21,0
+Cordero al Horno,Segundo,470,34,0,31,0
+Pastel de Chocolate,Postre,390,6,47,21,2
+Sopa de Marisco,Primero,120,8,14,4,2
+Estofado de Pollo,Segundo,350,27,10,21,1
+Tarta de Limón,Postre,310,5,44,14,1
+Ensalada Rusa,Primero,150,4,17,9,2
+Costillas a la Miel,Segundo,490,34,12,36,0
+Helado de Fresa,Postre,220,4,26,10,1
+Sopa de Guisantes,Primero,110,5,16,3,4
+Filete de Pescado,Segundo,230,27,0,12,0
+Pastel de Coco,Postre,310,5,46,16,2
+Caldo Gallego,Primero,100,3,12,5,2
+Solomillo de Res,Segundo,410,36,0,28,0
+Tarta de Almendra,Postre,340,6,44,18,2
+Sopa de Tomate,Primero,90,2,14,3,3
+Cerdo al Horno,Segundo,430,36,0,31,0
+Tarta de Peras,Postre,290,4,43,13,2
+Sopa de Pollo,Primero,120,9,11,6,2
+Pavo Relleno,Segundo,390,29,10,26,1
+Pudin de Chocolate,Postre,310,5,44,14,2
+Ensalada de Tomate,Primero,80,2,12,3,2
+Chuleta de Cordero,Segundo,430,34,0,29,0
+Flan de Coco,Postre,310,5,44,14,2
+Sopa de Puerro,Primero,100,3,12,4,2
+Pechuga de Pollo Asada,Segundo,230,32,0,11,0
+Tarta de Melocotón,Postre,290,4,44,13,2
+Caldo de Pollo,Primero,80,5,11,3,1
+Cerdo Guisado,Segundo,370,29,10,19,2
+Helado de Yogur,Postre,210,5,24,9,1
+Sopa de Almejas,Primero,110,7,11,3,2
+Solomillo de Ternera,Segundo,410,36,0,27,0
+Tarta de Castañas,Postre,310,5,43,16,1
+Crema de Espinacas,Primero,85,3,11,4,3
+Lomo de Cerdo,Segundo,360,31,0,21,0
+Helado de Vainilla con Nueces,Postre,230,4,24,11,2
+Sopa de Pescado,Primero,95,8,10,3,1
+Pierna de Cordero,Segundo,460,36,0,31,0
+Tarta de Frutas del Bosque,Postre,270,4,44,11,3
+Sopa de Verduras,Primero,75,2,11,3,2
+Pollo al Horno,Segundo,310,29,0,19,1
+Sopa de Lentejas,Primero,160,10,21,5,8
+Pato a la Naranja,Segundo,390,26,14,24,2
+Tarta de Nata,Postre,310,5,43,16,1
+Sopa de Patata,Primero,105,3,14,4,3
+Bistec de Res,Segundo,410,36,0,27,0
+Mousse de Fresa,Postre,230,5,31,10,1
+Caldo de Verduras,Primero,75,2,9,2,2
+Cerdo a la Brasa,Segundo,360,31,0,21,0
+Tarta de Naranja,Postre,290,4,44,13,2
+Sopa de Champiñones,Primero,95,3,11,4,2
+Filete de Trucha,Segundo,210,26,0,10,0
+Helado de Mango,Postre,220,4,24,8,1
+Caldo de Carne,Primero,85,5,9,3,1
+Pechuga de Pollo a la Parrilla,Segundo,230,31,0,11,0
+Tarta de Chocolate Blanco,Postre,330,5,44,19,2
+Sopa de Ajo,Primero,75,3,11,2,3
+Lomo de Cordero,Segundo,410,31,0,24,0
+Flan de Queso,Postre,290,5,41,13,1
+Ensalada de Espinacas,Primero,95,3,9,5,4
+Cerdo al Horno con Manzana,Segundo,390,27,14,21,2
+Sopa de Pescado,Primero,105,7,10,4,2
+Chuleta de Ternera,Segundo,430,36,0,29,0
+Tarta de Limón y Merengue,Postre,330,5,44,16,1
+Caldo de Pescado,Primero,85,5,9,3,1
+Costillas de Cerdo a la Parrilla,Segundo,460,36,9,31,0
+Helado de Plátano,Postre,220,4,24,8,1
+Crema de Calabaza,Primero,95,2,14,3,3
+Pavo al Horno,Segundo,360,27,9,21,0
+Tarta de Tres Leches,Postre,360,6,44,19,2
+Gazpacho Andaluz,Primero,75,2,11,3,2
+Filete de Bacalao,Segundo,210,26,0,10,0
+Mousse de Mango,Postre,230,5,29,10,1
+Sopa de Fideos,Primero,105,3,14,2,2
+Pollo en Salsa de Champiñones,Segundo,330,26,5,21,1
+Pudín de Vainilla,Postre,290,5,41,13,1
+Sopa de Espinacas,Primero,85,4,9,2,3
+Lomo de Cerdo Asado,Segundo,360,31,0,21,0
+Tarta de Nuez,Postre,330,5,44,18,2
+Ensalada de Rúcula,Primero,75,3,9,3,2
+Estofado de Cerdo,Segundo,370,29,10,20,1
+Sopa de Mariscos,Primero,125,8,14,4,2
+Pierna de Cordero Asada,Segundo,460,36,0,31,0
+Tarta de Manzana y Canela,Postre,310,5,43,15,2
+Caldo de Mariscos,Primero,95,6,9,3,1
+Costillas de Res,Segundo,470,39,0,34,0
+Helado de Limón,Postre,210,3,24,9,1
+Sopa de Verduras,Primero,85,3,11,3,3
+Pavo a la Miel,Segundo,360,29,9,19,1
+Tarta de Fresa,Postre,300,4,43,13,2
+Salmorejo Cordobés,Primero,75,2,11,3,2
+Filete de Salmón,Segundo,230,26,0,12,0
+Mousse de Limón,Postre,240,5,29,11,1
+Sopa de Pollo con Fideos,Primero,105,3,14,2,2
+Pollo con Salsa de Tomate,Segundo,330,25,8,19,1
+Natilla de Vainilla,Postre,290,5,39,13,1
+Sopa de Espárragos,Primero,85,3,9,3,3
+Chuleta de Cerdo a la Parrilla,Segundo,410,34,0,26,0
+Flan de Leche,Postre,310,6,44,14,2
+Ensalada de Zanahoria,Primero,75,2,9,3,2
+Estofado de Pavo,Segundo,360,29,9,19,0
+Crema de Champiñones,Primero,125,5,9,6,2
+Chuleta de Cordero Asada,Segundo,460,36,0,31,0
+Helado de Coco,Postre,210,4,24,9,1
+Caldo de Verduras,Primero,85,3,9,3,2
+Costillas de Cordero al Horno,Segundo,470,39,0,34,0
+Mousse de Café,Postre,230,5,29,11,1
+Sopa de Pollo con Verduras,Primero,105,7,11,4,2
+Pollo a la Barbacoa,Segundo,360,27,9,19,0
+Flan de Arroz,Postre,290,5,39,13,1
+Crema de Calabaza con Zanahoria,Primero,95,2,14,3,3
+Lomo de Atún,Segundo,230,26,0,11,0
+Tarta de Calabaza,Postre,310,5,43,15,2
+Gazpacho de Pepino,Primero,75,2,11,3,2
+Chuleta de Cordero a la Parrilla,Segundo,430,36,0,29,0
+Helado de Pistacho,Postre,220,4,24,9,1
+Sopa de Fideos con Verduras,Primero,105,3,14,2,2
+Pechuga de Pavo al Horno,Segundo,230,30,0,10,0
+Tarta de Plátano,Postre,300,4,43,13,2
+Caldo de Puerro,Primero,95,3,11,3,2
+Solomillo de Pollo,Segundo,360,29,0,19,0
+Sopa de Almejas,Primero,125,8,14,4,2
+Pierna de Cordero Asada,Segundo,460,36,0,31,0
+Tarta de Manzana y Canela,Postre,310,5,43,15,2
+Caldo de Mariscos,Primero,95,6,9,3,1
+Costillas de Res,Segundo,470,39,0,34,0
+Helado de Limón,Postre,210,3,24,9,1
+Sopa de Verduras,Primero,85,3,11,3,3
+Pavo a la Miel,Segundo,360,29,9,19,1
+Tarta de Fresa,Postre,295,4,44,13,2
+Salmorejo Cordobés,Primero,75,2,11,3,2
+Filete de Salmón,Segundo,230,26,0,12,0
+Mousse de Limón,Postre,235,5,29,10,1
+Sopa de Pollo con Fideos,Primero,105,3,14,2,2
+Pollo con Salsa de Tomate,Segundo,330,25,9,18,1
+Natilla de Vainilla,Postre,285,5,39,12,1
+Sopa de Espárragos,Primero,85,3,9,3,3
+Chuleta de Cerdo a la Parrilla,Segundo,410,34,0,26,0
+Flan de Leche,Postre,310,6,44,15,2
+Ensalada de Zanahoria,Primero,75,2,9,3,2
+Estofado de Pavo,Segundo,360,29,9,19,0
+Ensalada de Garbanzos,Primero,135,6,19,5,6
+Filete de Cerdo a la Pimienta,Segundo,360,30,0,19,0
+Pastel de Chocolate,Postre,410,6,49,20,2
+Caldo de Puerro y Patata,Primero,85,3,11,3,2
+Chuleta de Cerdo al Romero,Segundo,430,34,0,27,0
+Helado de Menta,Postre,205,4,24,9,1
+Sopa de Tomate y Albahaca,Primero,95,3,14,3,3
+Estofado de Cordero,Segundo,370,29,10,20,1
+Tarta de Queso con Fresa,Postre,325,5,44,18,2
+Crema de Espinacas y Nuez Moscada,Primero,105,4,9,4,2
+Solomillo de Ternera a la Plancha,Segundo,410,35,0,27,0
+Helado de Fresa y Nata,Postre,215,4,24,9,1
+Sopa de Lentejas y Calabaza,Primero,125,6,19,5,8
+Pierna de Pollo Asada,Segundo,310,28,0,17,1
+Tarta de Almendra y Miel,Postre,310,5,44,15,2
+Caldo de Ternera,Primero,85,4,9,3,1
+Filete de Pavo a la Naranja,Segundo,230,30,0,10,0
+Mousse de Naranja,Postre,235,5,29,10,1
+Sopa de Verduras y Pollo,Primero,95,7,11,4,2
+Lomo de Ternera al Vino,Segundo,360,30,0,19,0
+Sopa de Calabaza y Jengibre,Primero,95,2,14,3,3
+Chuleta de Ternera a la Plancha,Segundo,430,34,0,27,0
+Tarta de Manzana y Pasas,Postre,310,5,44,15,2
+Caldo de Pollo y Verduras,Primero,85,5,9,3,1
+Costillas de Cordero Asadas,Segundo,490,39,0,34,0
+Helado de Caramelo,Postre,215,4,24,9,1
+Sopa de Brócoli y Queso,Primero,105,3,14,5,2
+Pollo a la Parrilla,Segundo,360,28,9,19,0
+Flan de Naranja,Postre,285,5,39,12,1
+Crema de Espárragos Verdes,Primero,95,3,11,3,2
+Filete de Atún a la Parrilla,Segundo,230,26,0,11,0
+Tarta de Coco y Piña,Postre,310,5,44,15,2
+Gazpacho de Sandía,Primero,75,2,11,3,2
+Chuleta de Ternera al Ajo,Segundo,430,34,0,27,0
+Helado de Turrón,Postre,215,4,24,9,1
+Sopa de Fideos con Pollo,Primero,105,3,14,2,2
+Pechuga de Pavo a la Plancha,Segundo,230,30,0,10,0
+Tarta de Plátano y Caramelo,Postre,300,4,44,12,2
+Caldo de Pescado y Mariscos,Primero,95,4,11,3,1
+Solomillo de Ternera al Vino,Segundo,360,30,0,20,0
+Sopa de Zanahoria,Primero,85,2,14,3,3
+Chuleta de Res a la Parrilla,Segundo,460,35,0,30,0
+Helado de Fresa y Plátano,Postre,215,4,24,8,1
+Caldo de Cordero,Primero,95,5,9,3,2
+Costillas de Res al Horno,Segundo,490,39,0,34,0
+Mousse de Fresa y Limón,Postre,225,5,29,10,1
+Sopa de Puerros y Patatas,Primero,95,3,14,3,2
+Pechuga de Pollo a la Naranja,Segundo,330,28,9,20,1
+Flan de Plátano,Postre,285,5,39,12,1
+Crema de Alcachofas,Primero,85,2,11,3,3
+Filete de Bacalao al Horno,Segundo,210,25,0,10,0
+Tarta de Manzana y Arándanos,Postre,310,5,44,15,2
+Gazpacho de Tomate,Primero,75,2,11,3,2
+Chuleta de Cordero con Romero,Segundo,430,35,0,27,0
+Helado de Chocolate y Vainilla,Postre,215,4,24,8,1
+Sopa de Fideos con Pavo,Primero,105,3,14,2,2
+Solomillo de Pavo,Segundo,230,30,0,10,0
+Tarta de Coco y Dulce de Leche,Postre,300,4,44,12,2
+Caldo de Mariscos y Verduras,Primero,95,4,11,3,1
+Lomo de Res al Vino,Segundo,360,30,0,20,0
+Sopa de Tomate y Pimiento,Primero,85,2,14,3,2
+Chuleta de Cerdo con Miel,Segundo,460,35,0,27,0
+Helado de Frutas del Bosque,Postre,205,4,24,8,1
+Caldo de Verduras con Pollo,Primero,95,5,11,3,2
+Costillas de Cordero con Tomillo,Segundo,490,39,0,34,0
+Mousse de Vainilla y Caramelo,Postre,225,5,29,10,1
+Sopa de Guisantes con Jamón,Primero,105,7,14,3,2
+Pollo al Curry,Segundo,360,28,9,20,1
+Flan de Turrón,Postre,285,5,39,12,1
+Crema de Calabacín con Queso,Primero,95,3,11,3,2
+Filete de Trucha a la Parrilla,Segundo,230,25,0,12,0
+Tarta de Ciruela y Almendra,Postre,310,5,44,15,2
+Gazpacho de Melón,Primero,75,2,11,3,2
+Chuleta de Ternera con Champiñones,Segundo,430,35,0,27,0
+Helado de Nuez y Caramelo,Postre,215,4,24,8,1
+Sopa de Fideos con Verduras y Pollo,Primero,105,3,14,2,2
+Solomillo de Cerdo al Vino Tinto,Segundo,230,30,0,10,0
+Tarta de Plátano y Crema,Postre,300,4,44,12,2
+Caldo de Puerro y Pollo,Primero,95,3,11,3,2
+Lomo de Ternera al Tomillo,Segundo,360,30,0,20,0
+Sopa de Brócoli,Primero,95,3,11,3,2
+Chuleta de Res al Ajo,Segundo,460,35,0,30,0
+Helado de Coco y Piña,Postre,215,4,24,8,1
+Caldo de Pollo y Fideos,Primero,105,5,14,3,2
+Costillas de Cordero con Menta,Segundo,490,39,0,34,0
+Mousse de Chocolate y Naranja,Postre,235,5,29,10,1
+Sopa de Verduras y Arroz,Primero,105,7,14,3,2
+Pollo a la Plancha,Segundo,360,28,9,20,0
+Flan de Manzana,Postre,285,5,39,12,1
+Crema de Zanahoria con Jengibre,Primero,95,3,11,3,2
+Filete de Salmón a la Parrilla,Segundo,230,25,0,12,0
+Tarta de Mango y Coco,Postre,310,5,44,15,2
+Gazpacho de Tomate y Pepino,Primero,75,2,11,3,2
+Chuleta de Cordero con Ajo,Segundo,430,35,0,27,0
+Helado de Caramelo y Nueces,Postre,215,4,24,8,1
+Sopa de Fideos con Pollo y Verduras,Primero,105,3,14,2,2
+Solomillo de Pavo a la Parrilla,Segundo,230,30,0,10,0
+Tarta de Plátano y Chocolate,Postre,300,4,44,12,2
+Caldo de Mariscos y Pollo,Primero,95,4,11,3,1
+Lomo de Res al Ajo,Segundo,360,30,0,20,0
+Sopa de Coliflor,Primero,85,3,11,3,2
+Chuleta de Ternera con Mostaza,Segundo,460,35,0,27,0
+Helado de Fresas con Crema,Postre,215,4,24,8,1
+Caldo de Pollo y Vegetales,Primero,105,5,14,3,2
+Costillas de Cordero con Miel,Segundo,490,39,0,34,0
+Mousse de Chocolate Blanco,Postre,235,5,29,10,1
+Sopa de Vegetales,Primero,105,7,14,3,2
+Pollo Guisado,Segundo,360,28,9,20,0
+Flan de Fresas,Postre,285,5,39,12,1
+Crema de Espárragos Blancos,Primero,95,3,11,3,2
+Filete de Trucha al Horno,Segundo,210,25,0,10,0
+Tarta de Piña y Coco,Postre,310,5,44,15,2
+Gazpacho de Remolacha,Primero,75,2,11,3,2
+Chuleta de Cordero con Hierbas,Segundo,430,35,0,27,0
+Helado de Vainilla con Caramelo,Postre,215,4,24,8,1
+Sopa de Fideos y Pollo,Primero,105,3,14,2,2
+Solomillo de Pavo Asado,Segundo,230,30,0,10,0
+Tarta de Plátano y Nuez,Postre,300,4,44,12,2
+Caldo de Verduras y Pollo,Primero,95,4,11,3,1
+Lomo de Res con Pimienta,Segundo,360,30,0,20,0
+Sopa de Calabaza y Zanahoria,Primero,95,2,14,3,3
+Chuleta de Res con Champiñones,Segundo,460,35,0,30,0
+Helado de Chocolate y Menta,Postre,225,4,24,10,1
+Caldo de Pollo con Vegetales,Primero,105,5,14,3,2
+Costillas de Cordero con Romero,Segundo,490,39,0,34,0
+Mousse de Fresa y Limón,Postre,235,5,29,10,1
+Sopa de Verduras con Quinoa,Primero,105,7,14,3,2
+Pollo a la Naranja,Segundo,360,28,9,20,1
+Flan de Coco y Almendra,Postre,285,5,39,12,1
+Crema de Brócoli y Queso,Primero,95,3,11,3,2
+Filete de Pavo a la Parrilla,Segundo,230,25,0,12,0
+Tarta de Manzana y Nuez Moscada,Postre,310,5,44,15,2
+Gazpacho de Pepino y Menta,Primero,75,2,11,3,2
+Chuleta de Ternera con Tomillo,Segundo,430,35,0,27,0
+Helado de Pistacho y Vainilla,Postre,215,4,24,8,1
+Sopa de Fideos con Pollo y Verduras,Primero,105,3,14,2,2
+Solomillo de Ternera al Vino Tinto,Segundo,230,30,0,10,0
+Tarta de Plátano y Caramelo,Postre,300,4,44,12,2
+Caldo de Mariscos con Fideos,Primero,95,4,11,3,1
+Lomo de Res al Ajo y Perejil,Segundo,360,30,0,20,0
+Sopa de Zanahoria y Naranja,Primero,85,2,14,3,3
+Chuleta de Res con Romero,Segundo,460,35,0,30,0
+Helado de Mango y Maracuyá,Postre,215,4,24,8,1
+Caldo de Pollo y Guisantes,Primero,105,5,14,3,2
+Costillas de Cordero con Ajo y Miel,Segundo,490,39,0,34,0
+Mousse de Limón y Frutas del Bosque,Postre,235,5,29,10,1
+Sopa de Verduras y Avena,Primero,105,7,14,3,2
+Pollo al Horno con Especias,Segundo,360,28,9,20,1
+Flan de Cereza,Postre,285,5,39,12,1
+Crema de Alcachofas con Nata,Primero,95,3,11,3,2
+Filete de Bacalao a la Plancha,Segundo,210,25,0,10,0
+Tarta de Frambuesa y Almendra,Postre,310,5,44,15,2
+Gazpacho de Tomate y Sandía,Primero,75,2,11,3,2
+Chuleta de Ternera con Ajo y Perejil,Segundo,430,35,0,27,0
+Helado de Nuez y Chocolate,Postre,215,4,24,8,1
+Sopa de Fideos con Guisantes,Primero,105,3,14,2,2
+Solomillo de Ternera a la Parrilla,Segundo,230,30,0,10,0
+Tarta de Plátano y Nuez,Postre,300,4,44,12,2
+Caldo de Mariscos con Verduras,Primero,95,4,11,3,1
+Lomo de Res con Ajo y Mantequilla,Segundo,360,30,0,20,0
+Sopa de Guisantes,Primero,90,5,12,2,4
+Chuleta de Cordero Asado,Segundo,430,35,0,27,0
+Helado de Vainilla y Cerezas,Postre,205,4,24,8,1
+Caldo de Pollo y Puerro,Primero,80,5,11,2,2
+Costillas de Ternera al Horno,Segundo,470,38,0,34,0
+Mousse de Mango y Maracuyá,Postre,235,4,29,10,1
+Sopa de Espinacas,Primero,95,4,12,2,3
+Pollo al Ajillo,Segundo,350,29,6,18,1
+Flan de Caramelo,Postre,255,5,37,10,1
+Crema de Champiñones,Primero,85,3,10,3,2
+Filete de Tilapia,Segundo,210,26,0,10,0
+Tarta de Fresa y Crema,Postre,285,5,39,12,1
+Gazpacho de Pimiento,Primero,70,2,9,2,2
+Chuleta de Cerdo con Hierbas,Segundo,420,34,0,27,0
+Helado de Frutas Tropicales,Postre,215,4,26,9,1
+Sopa de Lentejas,Primero,100,6,13,2,4
+Solomillo de Cerdo al Horno,Segundo,330,31,0,18,0
+Tarta de Naranja,Postre,300,5,41,14,2
+Caldo de Verduras,Primero,65,2,8,1,2
+Lomo de Ternera con Pimienta,Segundo,380,32,0,22,0
+Sopa de Patata y Puerro,Primero,90,3,14,2,2
+Chuleta de Cordero a la Menta,Segundo,430,34,0,27,0
+Helado de Vainilla y Nuez,Postre,215,4,25,8,1
+Caldo de Pollo con Vegetales,Primero,80,5,11,2,2
+Costillas de Ternera a la Barbacoa,Segundo,470,38,0,34,0
+Mousse de Frutas del Bosque,Postre,235,4,29,10,1
+Sopa de Espárragos,Primero,95,3,12,2,3
+Pollo al Limón,Segundo,350,29,6,18,1
+Flan de Café,Postre,255,5,37,10,1
+Crema de Guisantes,Primero,85,3,10,3,2
+Filete de Tilapia a la Plancha,Segundo,210,26,0,10,0
+Tarta de Mango y Frambuesa,Postre,285,5,39,12,1
+Gazpacho de Manzana,Primero,70,2,9,2,2
+Chuleta de Cerdo a la Parrilla,Segundo,420,34,0,27,0
+Helado de Fresas y Crema,Postre,215,4,26,9,1
+Sopa de Lentejas con Espinacas,Primero,100,6,13,2,4
+Solomillo de Res al Ajillo,Segundo,330,31,0,18,0
+Tarta de Limón y Almendra,Postre,300,5,41,14,2
+Caldo de Verduras con Pavo,Primero,65,2,8,1,2
+Lomo de Ternera con Mostaza,Segundo,380,32,0,22,0
+Sopa de Pollo y Maíz,Primero,95,4,13,2,2
+Entrecot de Ternera,Segundo,430,36,0,30,0
+Helado de Avellana,Postre,225,4,27,10,1
+Caldo de Verduras con Cebada,Primero,85,3,14,2,3
+Muslo de Pollo Asado,Segundo,330,28,0,20,0
+Mousse de Fresa y Coco,Postre,245,5,29,10,2
+Sopa de Calabacín,Primero,75,3,10,2,3
+Filete de Atún,Segundo,220,26,0,12,0
+Flan de Frambuesa,Postre,255,5,38,11,1
+Crema de Guisantes y Menta,Primero,90,3,12,2,3
+Salmón a la Plancha,Segundo,240,25,0,14,0
+Tarta de Mango,Postre,280,5,40,10,2
+Gazpacho de Cerezas,Primero,75,2,11,3,2
+Costillas de Cerdo al Ajo,Segundo,430,34,0,27,0
+Helado de Caramelo y Mantequilla,Postre,225,4,26,9,1
+Sopa de Tomate y Pesto,Primero,90,3,13,2,2
+Solomillo de Ternera al Whisky,Segundo,350,32,0,18,0
+Tarta de Manzana y Caramelo,Postre,310,5,41,12,2
+Caldo de Pollo con Legumbres,Primero,80,5,12,2,2
+Lomo de Cerdo al Tomillo,Segundo,370,32,0,22,0
+Sopa de Guisantes y Menta,Primero,80,3,11,1,4
+Costillas de Cerdo a la Miel,Segundo,460,33,5,30,1
+Helado de Melocotón,Postre,215,4,26,8,1
+Caldo de Verduras con Fideos,Primero,75,2,9,1,2
+Pollo al Curry con Coco,Segundo,350,26,8,18,3
+Mousse de Maracuyá,Postre,235,4,29,10,1
+Sopa de Tomate y Albahaca,Primero,85,3,13,1,3
+Merluza con Guisantes,Segundo,230,25,0,10,0
+Flan de Limón y Menta,Postre,255,5,36,10,1
+Crema de Zanahoria y Jengibre,Primero,80,2,11,2,3
+Bacalao a la Vizcaína,Segundo,220,26,1,8,0
+Tarta de Frutas Tropicales,Postre,285,5,38,11,1
+Gazpacho de Mango,Primero,70,2,9,1,2
+Chuletas de Pavo,Segundo,410,35,0,27,1
+Helado de Plátano,Postre,225,5,27,9,1
+Sopa de Calabaza y Naranja,Primero,85,2,14,1,3
+Solomillo de Pavo a la Naranja,Segundo,310,31,4,16,1
+Tarta de Almendra y Coco,Postre,300,6,39,14,2
+Caldo de Puerro y Patata,Primero,80,3,11,1,2
+Lomo de Cordero al Tomillo,Segundo,360,30,0,22,0
+
+
+
+
+

@@ -1,0 +1,1001 @@
+alimento,categoria,calorias,proteinas,carbohidratos,grasas,fibra,region,preparacion
+Pastel de chocolate chocolate sin azucar,Postre,450,7.6,61.2,7.9,4.8,Asia,Horno
+Helado de vainilla mango bajo en grasas,Postre,498,7.1,59.5,27.3,3.4,Oceania,Cocido
+Tarta de manzana naranja vegetariano,Postre,202,7.7,54.0,10.3,4.4,Africa,Cocido
+Flan vainilla alto en fibra,Postre,582,5.1,47.3,9.6,4.5,Europa,Horno
+Brownie limon bajo en grasas,Postre,475,5.6,53.9,15.7,4.0,Asia,Asado
+Mousse de limon limon integral,Postre,618,6.3,32.5,16.3,4.3,Asia,Asado
+Galletas de avena vainilla integral,Postre,249,5.8,39.4,12.2,3.0,Asia,Frito
+Pan dulce mango sin gluten,Postre,617,2.5,70.0,16.2,2.9,Africa,Frito
+Churros manzana sin gluten,Postre,694,2.6,32.4,16.3,4.8,Europa,Horno
+Arroz con leche vainilla sin gluten,Postre,278,7.8,31.5,12.1,1.4,America,Frito
+Pastel de zanahoria mango integral,Postre,630,3.3,30.0,25.0,3.4,Africa,Horno
+Helado de fresa manzana vegetariano,Postre,313,4.7,62.9,9.5,1.1,Africa,Frito
+Tarta de queso vainilla alto en fibra,Postre,655,4.4,61.1,11.9,2.1,Oceania,Cocido
+Panna cotta vainilla vegetariano,Postre,509,7.0,79.5,17.6,3.5,America,Horno
+Crema catalana limon vegetariano,Postre,500,6.3,48.9,22.6,1.5,Asia,Frito
+Galletas de chocolate manzana bajo en grasas,Postre,485,6.1,42.1,19.2,1.2,Oceania,Asado
+Pastel selva negra manzana vegetariano,Postre,343,2.3,58.4,9.8,2.4,Europa,Frito
+Cheesecake de limon manzana vegetariano,Postre,589,3.9,77.5,17.6,4.9,Africa,Crudo
+Yogur natural manzana alto en fibra,Postre,221,3.2,55.8,18.7,2.8,Europa,Cocido
+Yogur de frutas fresa integral,Postre,663,2.7,42.4,8.3,1.8,America,Asado
+Sopa de verduras fresa alto en fibra,Primero,474,5.7,26.3,7.3,5.5,America,Frito
+Ensalada Cesar naranja alto en fibra,Primero,526,8.5,39.6,11.0,7.8,Oceania,Horno
+Crema de calabaza chocolate sin azucar,Primero,202,10.1,36.8,5.5,9.1,Africa,Crudo
+Minestrone fresa sin azucar,Primero,327,12.9,39.1,5.8,3.2,Europa,Horno
+Gazpacho mango vegetariano,Primero,591,11.0,23.7,9.9,4.2,America,Frito
+Sopa de pollo naranja integral,Primero,644,6.9,30.7,9.6,4.4,Oceania,Cocido
+Caldo gallego naranja sin azucar,Primero,595,6.1,20.8,5.5,8.0,Europa,Cocido
+Salmorejo mango vegetariano,Primero,592,6.7,28.3,11.3,8.0,Oceania,Asado
+Crema de esparragos naranja sin azucar,Primero,201,14.4,15.4,8.1,4.7,Oceania,Horno
+Consome fresa sin gluten,Primero,521,5.8,21.9,12.6,4.5,America,Horno
+Ensalada griega fresa sin gluten,Primero,324,14.1,26.7,8.3,7.2,Europa,Cocido
+Ensalada caprese naranja bajo en grasas,Primero,276,14.3,32.3,13.3,8.4,Europa,Cocido
+Crema de champiñones fresa alto en fibra,Primero,328,11.8,20.1,14.9,7.3,Africa,Crudo
+Vichyssoise limon bajo en grasas,Primero,625,8.7,27.4,10.2,4.4,Europa,Horno
+Sopa de lentejas vainilla sin gluten,Primero,257,8.9,27.7,12.7,4.7,Africa,Horno
+Ensalada rusa vainilla sin gluten,Primero,686,9.8,26.2,10.4,3.7,Africa,Horno
+Crema de zanahoria limon vegetariano,Primero,573,13.9,20.1,12.3,4.9,Oceania,Asado
+Ensalada de quinoa manzana bajo en grasas,Primero,576,14.7,25.6,3.9,2.4,Europa,Frito
+Ensalada de pasta chocolate bajo en grasas,Primero,388,8.6,30.3,5.9,6.9,Europa,Cocido
+Sopa miso coco integral,Primero,521,11.5,22.8,5.2,2.6,Europa,Asado
+Pollo asado manzana vegetariano,Segundo,641,41.1,16.0,33.0,0.1,America,Asado
+Salmon al horno coco vegetariano,Segundo,624,45.5,20.6,12.8,3.7,America,Frito
+Chuletas de cerdo vainilla alto en fibra,Segundo,618,49.5,7.8,18.9,3.3,America,Horno
+Lomo de res vainilla integral,Segundo,669,42.4,12.3,38.4,1.2,Oceania,Cocido
+Pescado frito mango bajo en grasas,Segundo,250,40.3,18.4,11.4,2.8,America,Asado
+Estofado de ternera manzana sin gluten,Segundo,472,22.9,17.0,35.2,4.5,Asia,Crudo
+Paella limon sin azucar,Segundo,677,32.2,29.7,19.8,4.1,America,Cocido
+Fajitas de pollo manzana vegetariano,Segundo,644,25.8,19.6,31.7,4.8,Asia,Horno
+Tacos de pescado fresa alto en fibra,Segundo,548,17.2,9.7,15.7,2.2,Oceania,Crudo
+Hamburguesa casera manzana sin gluten,Segundo,470,16.0,24.8,37.9,3.2,America,Horno
+Curry de pollo naranja alto en fibra,Segundo,699,39.1,15.8,14.2,2.0,Africa,Crudo
+Pollo al curry coco bajo en grasas,Segundo,462,48.7,14.6,12.2,3.2,Asia,Crudo
+Filete de pescado fresa integral,Segundo,444,27.8,18.1,24.6,0.6,Africa,Frito
+Carne guisada naranja sin gluten,Segundo,421,35.1,13.4,28.1,0.4,America,Horno
+Costillas de cerdo fresa alto en fibra,Segundo,199,35.3,29.9,28.4,4.8,Europa,Frito
+Arroz con pollo manzana alto en fibra,Segundo,274,44.5,13.0,37.2,1.3,Oceania,Cocido
+Lasaña vainilla integral,Segundo,434,19.5,8.7,39.4,0.2,Africa,Horno
+Pizza margarita limon integral,Segundo,678,44.2,21.6,20.7,2.1,Europa,Crudo
+Pizza de pepperoni fresa sin azucar,Segundo,389,41.0,20.9,34.2,3.3,Africa,Asado
+Pasta boloñesa fresa vegetariano,Segundo,557,38.6,6.5,17.9,4.3,America,Asado
+Pastel de chocolate limon sin gluten,Postre,332,3.2,60.8,22.4,4.9,America,Asado
+Helado de vainilla mango sin gluten,Postre,518,4.1,66.7,12.4,1.2,America,Frito
+Tarta de manzana coco bajo en grasas,Postre,456,6.3,75.9,22.0,3.9,Asia,Asado
+Flan mango bajo en grasas,Postre,510,6.5,61.3,24.2,3.2,Africa,Frito
+Brownie mango integral,Postre,171,6.7,32.5,23.0,2.2,Asia,Horno
+Mousse de limon chocolate sin gluten,Postre,238,3.1,36.5,20.7,4.2,Asia,Asado
+Galletas de avena chocolate sin azucar,Postre,385,6.1,65.9,18.1,2.4,Europa,Horno
+Pan dulce chocolate vegetariano,Postre,482,3.4,69.8,28.6,3.6,Africa,Horno
+Churros manzana bajo en grasas,Postre,617,2.3,41.4,26.3,2.9,America,Horno
+Arroz con leche chocolate sin gluten,Postre,485,6.8,34.8,16.1,2.7,Asia,Crudo
+Pastel de zanahoria limon bajo en grasas,Postre,635,2.6,74.6,29.6,1.3,Africa,Crudo
+Helado de fresa fresa bajo en grasas,Postre,229,2.6,46.5,13.2,1.2,Europa,Frito
+Tarta de queso vainilla vegetariano,Postre,489,6.8,67.0,28.6,1.1,Europa,Frito
+Panna cotta coco bajo en grasas,Postre,260,5.2,74.1,8.0,1.8,Asia,Frito
+Crema catalana naranja sin gluten,Postre,502,5.3,33.9,27.3,2.3,Asia,Asado
+Galletas de chocolate manzana sin azucar,Postre,387,2.7,76.2,14.3,2.9,Africa,Cocido
+Pastel selva negra chocolate bajo en grasas,Postre,440,4.2,49.0,26.3,4.1,Europa,Horno
+Cheesecake de limon limon integral,Postre,544,7.8,42.8,21.8,3.4,Africa,Cocido
+Yogur natural limon sin gluten,Postre,449,7.5,59.2,23.3,3.5,America,Horno
+Yogur de frutas limon alto en fibra,Postre,411,2.8,60.2,17.6,2.5,America,Crudo
+Sopa de verduras manzana alto en fibra,Primero,185,14.7,32.9,2.5,10.0,Europa,Horno
+Ensalada Cesar mango bajo en grasas,Primero,575,6.6,14.9,9.3,9.9,Africa,Horno
+Crema de calabaza manzana vegetariano,Primero,275,5.3,36.6,9.2,2.3,Asia,Horno
+Minestrone mango sin azucar,Primero,637,6.6,16.9,8.7,2.7,America,Horno
+Gazpacho naranja sin azucar,Primero,403,8.6,15.1,12.2,2.3,Europa,Crudo
+Sopa de pollo limon bajo en grasas,Primero,633,9.4,35.4,9.5,6.1,Asia,Frito
+Caldo gallego chocolate vegetariano,Primero,290,5.5,25.3,4.3,5.1,Asia,Frito
+Salmorejo mango sin azucar,Primero,414,8.2,14.2,3.5,8.2,Africa,Horno
+Crema de esparragos vainilla alto en fibra,Primero,178,5.3,13.2,3.5,4.9,America,Asado
+Consome naranja bajo en grasas,Primero,654,10.6,31.4,7.8,2.6,America,Horno
+Ensalada griega manzana sin gluten,Primero,348,8.5,34.2,14.7,3.3,Asia,Crudo
+Ensalada caprese chocolate vegetariano,Primero,555,5.3,39.0,6.8,9.8,Africa,Frito
+Crema de champiñones limon vegetariano,Primero,601,10.6,33.3,13.4,2.8,Africa,Cocido
+Vichyssoise limon sin gluten,Primero,243,13.1,23.7,11.9,2.4,Oceania,Horno
+Sopa de lentejas coco vegetariano,Primero,291,13.0,34.4,8.7,5.3,America,Crudo
+Ensalada rusa mango sin azucar,Primero,362,8.9,25.7,3.6,4.1,Europa,Cocido
+Crema de zanahoria limon sin gluten,Primero,692,9.4,32.1,10.3,3.7,Africa,Asado
+Ensalada de quinoa coco sin gluten,Primero,651,5.2,36.7,9.4,3.0,Oceania,Frito
+Ensalada de pasta coco integral,Primero,639,7.5,18.1,6.4,5.3,Africa,Asado
+Sopa miso vainilla vegetariano,Primero,430,10.1,17.9,11.8,4.8,Africa,Crudo
+Pollo asado fresa bajo en grasas,Segundo,590,20.1,25.9,21.4,2.1,Oceania,Cocido
+Salmon al horno chocolate integral,Segundo,551,22.3,9.0,38.0,2.3,Oceania,Frito
+Chuletas de cerdo mango sin azucar,Segundo,474,48.0,18.0,26.8,2.1,Africa,Crudo
+Lomo de res manzana sin azucar,Segundo,347,35.1,10.1,24.7,2.0,Africa,Cocido
+Pescado frito chocolate alto en fibra,Segundo,228,43.6,24.9,10.8,0.4,Africa,Crudo
+Estofado de ternera naranja sin gluten,Segundo,693,19.7,29.7,33.6,2.5,America,Horno
+Paella coco bajo en grasas,Segundo,270,41.2,17.4,38.6,0.7,America,Frito
+Fajitas de pollo chocolate alto en fibra,Segundo,600,40.5,10.9,34.8,2.3,Europa,Horno
+Tacos de pescado manzana alto en fibra,Segundo,214,31.3,20.5,15.8,0.8,Asia,Horno
+Hamburguesa casera naranja sin azucar,Segundo,161,26.8,11.3,10.7,1.7,Europa,Frito
+Curry de pollo mango sin azucar,Segundo,243,39.9,24.7,26.9,3.6,Europa,Asado
+Pollo al curry naranja bajo en grasas,Segundo,205,40.2,22.5,38.0,0.8,America,Frito
+Filete de pescado mango integral,Segundo,571,40.2,8.7,22.9,2.7,Asia,Crudo
+Carne guisada chocolate alto en fibra,Segundo,648,31.1,8.2,33.2,1.1,Oceania,Cocido
+Costillas de cerdo vainilla sin azucar,Segundo,184,17.8,23.7,30.4,3.9,Oceania,Frito
+Arroz con pollo fresa sin azucar,Segundo,342,36.7,22.6,35.8,4.0,Asia,Crudo
+Lasaña fresa alto en fibra,Segundo,692,41.6,7.1,19.3,4.5,Europa,Horno
+Pizza margarita coco sin azucar,Segundo,557,36.1,8.5,19.7,1.4,Asia,Cocido
+Pizza de pepperoni mango sin gluten,Segundo,426,48.9,21.6,24.9,2.5,Africa,Asado
+Pasta boloñesa mango alto en fibra,Segundo,660,45.9,29.8,26.8,3.5,Europa,Frito
+Pastel de chocolate vainilla sin azucar,Postre,632,4.5,44.7,7.1,1.9,Asia,Horno
+Helado de vainilla naranja sin azucar,Postre,464,7.8,67.5,15.8,1.4,America,Frito
+Tarta de manzana mango bajo en grasas,Postre,561,5.1,35.1,13.3,5.0,Europa,Frito
+Flan coco sin azucar,Postre,505,3.7,32.9,21.3,3.8,Oceania,Frito
+Brownie coco alto en fibra,Postre,639,2.6,72.6,6.5,2.3,Africa,Horno
+Mousse de limon vainilla integral,Postre,311,2.5,54.6,11.0,2.3,Europa,Asado
+Galletas de avena mango vegetariano,Postre,477,5.9,70.5,9.8,4.5,Europa,Horno
+Pan dulce chocolate bajo en grasas,Postre,276,3.6,69.1,9.1,1.2,Oceania,Frito
+Churros limon alto en fibra,Postre,165,4.2,35.8,25.8,1.2,Oceania,Crudo
+Arroz con leche limon sin azucar,Postre,635,7.1,48.1,16.7,3.2,Oceania,Cocido
+Pastel de zanahoria limon bajo en grasas,Postre,395,5.4,77.2,18.0,4.6,Africa,Horno
+Helado de fresa vainilla sin azucar,Postre,583,4.3,55.2,28.5,3.9,Asia,Cocido
+Tarta de queso mango bajo en grasas,Postre,380,6.5,75.2,13.9,3.4,Africa,Horno
+Panna cotta naranja integral,Postre,370,7.7,63.7,13.3,1.6,Asia,Horno
+Crema catalana mango integral,Postre,629,7.6,46.0,18.4,3.3,Oceania,Crudo
+Galletas de chocolate chocolate vegetariano,Postre,305,5.3,65.2,22.1,2.2,Asia,Horno
+Pastel selva negra manzana integral,Postre,686,6.5,54.0,10.7,2.2,Oceania,Frito
+Cheesecake de limon manzana integral,Postre,182,5.6,34.0,28.3,3.1,Asia,Crudo
+Yogur natural vainilla integral,Postre,618,5.1,48.4,30.0,2.7,America,Asado
+Yogur de frutas coco integral,Postre,320,6.9,48.8,8.4,4.1,Europa,Frito
+Sopa de verduras vainilla sin azucar,Primero,376,9.6,26.7,9.6,5.0,America,Horno
+Ensalada Cesar naranja bajo en grasas,Primero,612,11.2,25.9,13.9,6.0,Europa,Frito
+Crema de calabaza manzana bajo en grasas,Primero,256,7.2,33.2,2.6,4.4,Oceania,Frito
+Minestrone coco alto en fibra,Primero,512,11.2,35.2,9.2,9.7,Oceania,Cocido
+Gazpacho chocolate vegetariano,Primero,235,14.8,34.1,6.3,9.8,Africa,Frito
+Sopa de pollo fresa vegetariano,Primero,427,12.7,29.4,15.0,6.5,America,Frito
+Caldo gallego limon integral,Primero,261,11.4,20.5,3.4,6.7,Oceania,Frito
+Salmorejo manzana sin gluten,Primero,481,10.8,23.4,14.0,2.5,America,Asado
+Crema de esparragos naranja bajo en grasas,Primero,242,13.0,30.3,4.1,8.8,Africa,Frito
+Consome chocolate alto en fibra,Primero,287,7.5,29.8,5.9,5.5,Oceania,Cocido
+Ensalada griega coco bajo en grasas,Primero,227,14.9,30.9,3.7,9.9,Africa,Crudo
+Ensalada caprese coco vegetariano,Primero,169,7.7,28.1,6.0,7.9,Oceania,Cocido
+Crema de champiñones manzana alto en fibra,Primero,650,10.4,21.0,5.9,5.8,Asia,Asado
+Vichyssoise mango vegetariano,Primero,262,13.7,11.6,13.4,3.8,Africa,Frito
+Sopa de lentejas mango alto en fibra,Primero,674,14.4,20.8,8.3,6.9,Oceania,Cocido
+Ensalada rusa chocolate integral,Primero,591,6.2,36.3,10.9,9.3,Africa,Crudo
+Crema de zanahoria naranja vegetariano,Primero,508,5.3,30.1,12.9,7.8,Oceania,Crudo
+Ensalada de quinoa limon vegetariano,Primero,346,7.8,33.9,8.1,8.9,Europa,Crudo
+Ensalada de pasta coco sin azucar,Primero,541,14.1,19.8,4.4,8.4,Europa,Cocido
+Sopa miso fresa vegetariano,Primero,528,5.0,24.1,14.7,7.7,Africa,Crudo
+Pollo asado naranja sin gluten,Segundo,598,28.6,10.3,39.6,1.4,Europa,Horno
+Salmon al horno naranja alto en fibra,Segundo,289,18.2,26.3,30.6,1.6,Europa,Crudo
+Chuletas de cerdo limon integral,Segundo,166,37.8,23.1,11.8,3.9,Oceania,Horno
+Lomo de res fresa integral,Segundo,528,38.7,10.4,14.3,0.9,Africa,Cocido
+Pescado frito naranja alto en fibra,Segundo,358,40.8,20.3,36.4,1.2,Asia,Asado
+Estofado de ternera mango vegetariano,Segundo,185,43.7,7.5,38.7,4.2,Europa,Asado
+Paella coco sin azucar,Segundo,311,48.3,23.3,38.1,4.3,Africa,Frito
+Fajitas de pollo fresa sin gluten,Segundo,485,46.1,22.3,18.6,0.0,Europa,Frito
+Tacos de pescado mango vegetariano,Segundo,248,26.9,13.3,24.3,2.5,Europa,Frito
+Hamburguesa casera mango integral,Segundo,178,36.0,25.9,12.2,3.6,Oceania,Crudo
+Curry de pollo naranja sin gluten,Segundo,186,26.4,8.0,36.5,3.7,Asia,Horno
+Pollo al curry fresa bajo en grasas,Segundo,231,16.0,27.8,28.7,3.1,America,Horno
+Filete de pescado fresa vegetariano,Segundo,674,19.4,5.5,39.7,0.2,America,Cocido
+Carne guisada vainilla integral,Segundo,345,22.6,10.0,20.9,3.5,Asia,Horno
+Costillas de cerdo fresa bajo en grasas,Segundo,318,30.7,19.3,24.9,2.4,Africa,Frito
+Arroz con pollo mango sin azucar,Segundo,443,38.4,28.5,35.0,0.2,Asia,Crudo
+Lasaña coco sin gluten,Segundo,319,46.5,25.7,11.8,1.1,America,Frito
+Pizza margarita fresa alto en fibra,Segundo,176,33.2,28.2,21.6,0.8,America,Horno
+Pizza de pepperoni manzana sin azucar,Segundo,254,25.4,19.2,19.0,2.7,America,Crudo
+Pasta boloñesa limon integral,Segundo,367,29.2,12.9,10.3,1.7,America,Cocido
+Pastel de chocolate manzana sin gluten,Postre,435,7.5,32.2,19.3,3.7,Africa,Crudo
+Helado de vainilla fresa sin gluten,Postre,463,5.8,33.0,22.7,1.8,America,Crudo
+Tarta de manzana naranja alto en fibra,Postre,443,4.4,49.2,25.7,2.5,America,Frito
+Flan limon alto en fibra,Postre,636,3.5,34.5,21.9,4.6,Asia,Asado
+Brownie naranja bajo en grasas,Postre,543,7.7,63.1,6.7,3.6,Asia,Frito
+Mousse de limon fresa sin gluten,Postre,304,7.0,43.8,5.4,1.6,Africa,Cocido
+Galletas de avena vainilla sin gluten,Postre,265,4.2,73.9,28.6,3.9,Asia,Horno
+Pan dulce mango sin gluten,Postre,250,7.3,77.5,16.1,4.8,Africa,Frito
+Churros vainilla vegetariano,Postre,251,2.4,58.2,25.5,2.9,Oceania,Crudo
+Arroz con leche manzana sin gluten,Postre,366,4.4,38.1,17.2,2.9,America,Crudo
+Pastel de zanahoria chocolate bajo en grasas,Postre,665,5.0,70.0,11.5,4.8,Europa,Cocido
+Helado de fresa mango integral,Postre,544,7.3,68.7,6.4,3.8,Africa,Asado
+Tarta de queso fresa bajo en grasas,Postre,593,3.5,44.8,6.6,4.4,Asia,Asado
+Panna cotta mango sin azucar,Postre,356,5.0,34.1,5.8,2.5,Africa,Asado
+Crema catalana coco alto en fibra,Postre,269,7.5,31.2,23.0,2.2,America,Frito
+Galletas de chocolate fresa sin gluten,Postre,245,4.7,47.7,6.8,2.3,America,Asado
+Pastel selva negra fresa sin azucar,Postre,543,3.5,47.9,25.1,4.2,Europa,Asado
+Cheesecake de limon fresa vegetariano,Postre,537,4.9,64.0,19.7,4.5,America,Crudo
+Yogur natural coco sin gluten,Postre,354,5.4,68.0,9.2,3.1,Africa,Horno
+Yogur de frutas vainilla sin azucar,Postre,387,2.2,37.4,13.5,2.2,Oceania,Frito
+Sopa de verduras coco integral,Primero,253,10.3,11.6,13.5,7.7,America,Horno
+Ensalada Cesar vainilla vegetariano,Primero,292,13.9,14.9,13.7,6.8,Asia,Crudo
+Crema de calabaza chocolate integral,Primero,226,12.1,30.0,12.1,4.2,America,Asado
+Minestrone chocolate vegetariano,Primero,695,8.5,30.8,11.8,9.8,Asia,Cocido
+Gazpacho limon integral,Primero,649,11.5,16.3,7.1,8.6,Asia,Frito
+Sopa de pollo coco bajo en grasas,Primero,325,9.3,36.0,13.6,7.4,Oceania,Cocido
+Caldo gallego mango bajo en grasas,Primero,362,6.7,25.4,7.9,2.7,Oceania,Crudo
+Salmorejo naranja integral,Primero,344,7.5,33.1,9.7,2.3,Asia,Cocido
+Crema de esparragos fresa vegetariano,Primero,204,12.6,18.2,7.2,8.9,Oceania,Crudo
+Consome mango integral,Primero,330,11.7,31.5,8.1,10.0,Africa,Asado
+Ensalada griega coco bajo en grasas,Primero,357,14.1,15.7,7.2,5.6,Africa,Crudo
+Ensalada caprese coco alto en fibra,Primero,559,13.0,36.2,6.6,8.8,Oceania,Crudo
+Crema de champiñones coco integral,Primero,610,6.3,15.1,4.1,9.5,Asia,Horno
+Vichyssoise naranja sin gluten,Primero,633,13.7,11.9,12.7,2.0,America,Cocido
+Sopa de lentejas coco sin azucar,Primero,272,11.2,13.4,6.3,2.8,America,Crudo
+Ensalada rusa manzana alto en fibra,Primero,511,8.1,22.1,7.6,9.5,Africa,Crudo
+Crema de zanahoria chocolate bajo en grasas,Primero,372,7.9,22.8,10.4,4.4,America,Asado
+Ensalada de quinoa chocolate vegetariano,Primero,314,14.5,17.3,5.9,9.8,America,Asado
+Ensalada de pasta limon integral,Primero,631,11.2,29.5,10.9,4.3,Oceania,Crudo
+Sopa miso mango alto en fibra,Primero,499,8.3,14.5,13.0,8.8,America,Cocido
+Pollo asado mango integral,Segundo,589,15.4,19.1,28.1,3.5,Africa,Frito
+Salmon al horno fresa sin gluten,Segundo,700,16.6,15.5,25.4,3.9,Oceania,Horno
+Chuletas de cerdo coco bajo en grasas,Segundo,463,26.6,13.6,34.9,0.7,America,Frito
+Lomo de res mango sin azucar,Segundo,239,45.5,26.3,25.8,0.4,Europa,Frito
+Pescado frito vainilla vegetariano,Segundo,171,28.6,18.9,34.5,3.5,Europa,Asado
+Estofado de ternera mango bajo en grasas,Segundo,632,36.0,25.4,16.1,1.9,America,Crudo
+Paella fresa sin gluten,Segundo,309,48.4,11.8,25.1,4.2,Europa,Frito
+Fajitas de pollo naranja vegetariano,Segundo,622,41.1,21.7,31.3,2.7,Africa,Crudo
+Tacos de pescado coco sin gluten,Segundo,398,37.4,12.7,33.9,0.0,Africa,Horno
+Hamburguesa casera coco sin azucar,Segundo,404,22.0,14.4,34.8,0.4,Oceania,Horno
+Curry de pollo manzana bajo en grasas,Segundo,427,37.8,12.7,17.9,2.3,Asia,Asado
+Pollo al curry fresa alto en fibra,Segundo,276,24.3,17.9,36.5,2.5,Asia,Crudo
+Filete de pescado fresa alto en fibra,Segundo,247,48.7,28.6,39.7,2.2,Europa,Horno
+Carne guisada naranja sin azucar,Segundo,417,39.0,5.5,30.9,1.1,America,Crudo
+Costillas de cerdo fresa integral,Segundo,499,41.8,16.3,36.7,5.0,Africa,Cocido
+Arroz con pollo naranja sin gluten,Segundo,582,30.4,6.3,10.6,4.6,Oceania,Asado
+Lasaña vainilla vegetariano,Segundo,182,18.3,11.7,32.2,0.7,America,Crudo
+Pizza margarita manzana alto en fibra,Segundo,612,32.8,23.0,15.6,1.8,Europa,Asado
+Pizza de pepperoni fresa integral,Segundo,507,26.9,29.1,39.5,4.6,Oceania,Frito
+Pasta boloñesa vainilla sin azucar,Segundo,687,40.0,26.2,14.3,3.2,Europa,Crudo
+Pastel de chocolate naranja integral,Postre,543,5.2,55.4,24.8,4.0,Africa,Crudo
+Helado de vainilla fresa alto en fibra,Postre,650,3.4,52.9,20.6,3.5,Africa,Horno
+Tarta de manzana naranja bajo en grasas,Postre,180,5.7,50.0,7.0,1.6,Asia,Frito
+Flan limon bajo en grasas,Postre,380,4.1,78.8,25.8,2.7,Europa,Frito
+Brownie mango alto en fibra,Postre,657,6.4,66.9,21.4,1.2,Europa,Horno
+Mousse de limon chocolate sin gluten,Postre,356,4.3,72.5,15.9,1.7,Asia,Frito
+Galletas de avena mango sin gluten,Postre,248,2.5,72.2,29.4,1.9,Asia,Cocido
+Pan dulce manzana bajo en grasas,Postre,245,3.2,42.7,25.9,4.2,Africa,Horno
+Churros fresa vegetariano,Postre,508,5.1,45.6,26.5,3.3,America,Horno
+Arroz con leche manzana integral,Postre,388,3.7,56.0,11.4,2.5,Oceania,Cocido
+Pastel de zanahoria coco sin gluten,Postre,362,5.5,51.2,14.1,2.0,Oceania,Asado
+Helado de fresa mango integral,Postre,649,2.7,79.8,24.2,1.5,Oceania,Crudo
+Tarta de queso chocolate sin gluten,Postre,603,7.1,61.1,29.4,2.7,Asia,Cocido
+Panna cotta manzana sin azucar,Postre,229,4.6,55.3,29.9,3.7,Europa,Cocido
+Crema catalana limon alto en fibra,Postre,207,6.1,35.0,17.6,2.9,Oceania,Horno
+Galletas de chocolate coco sin gluten,Postre,295,2.1,33.2,21.4,4.6,Africa,Horno
+Pastel selva negra vainilla bajo en grasas,Postre,287,2.0,68.6,18.5,3.9,America,Cocido
+Cheesecake de limon naranja bajo en grasas,Postre,335,4.7,46.0,17.4,2.2,Africa,Cocido
+Yogur natural mango bajo en grasas,Postre,586,5.5,74.1,7.7,2.4,Oceania,Frito
+Yogur de frutas vainilla alto en fibra,Postre,516,8.0,72.5,23.6,3.2,Europa,Horno
+Sopa de verduras chocolate integral,Primero,211,12.9,27.0,13.8,7.1,America,Frito
+Ensalada Cesar naranja alto en fibra,Primero,416,14.0,22.4,2.5,4.9,Africa,Frito
+Crema de calabaza mango integral,Primero,550,8.5,16.5,6.4,9.1,Europa,Asado
+Minestrone limon sin azucar,Primero,159,6.3,37.9,2.4,6.3,Africa,Crudo
+Gazpacho coco sin azucar,Primero,200,9.6,19.5,8.5,9.5,Oceania,Crudo
+Sopa de pollo mango sin azucar,Primero,408,11.5,38.0,5.0,2.9,America,Horno
+Caldo gallego fresa alto en fibra,Primero,690,13.0,17.0,4.2,5.0,Asia,Asado
+Salmorejo limon alto en fibra,Primero,519,13.9,29.3,8.4,7.3,Africa,Asado
+Crema de esparragos vainilla integral,Primero,348,9.2,10.1,13.4,4.3,Oceania,Horno
+Consome limon vegetariano,Primero,407,14.3,34.9,14.2,3.3,Oceania,Asado
+Ensalada griega mango alto en fibra,Primero,624,8.5,25.9,9.2,4.4,Asia,Horno
+Ensalada caprese limon alto en fibra,Primero,319,12.0,26.7,14.3,8.7,Africa,Horno
+Crema de champiñones limon vegetariano,Primero,469,13.0,31.5,6.1,3.3,Europa,Cocido
+Vichyssoise limon sin gluten,Primero,543,9.4,38.8,8.7,4.2,Asia,Frito
+Sopa de lentejas fresa vegetariano,Primero,299,5.3,16.4,12.1,6.2,Asia,Crudo
+Ensalada rusa fresa sin gluten,Primero,155,8.1,25.1,7.2,5.3,America,Asado
+Crema de zanahoria fresa alto en fibra,Primero,218,13.9,16.6,14.6,9.9,Europa,Asado
+Ensalada de quinoa fresa sin gluten,Primero,661,9.0,38.3,2.1,3.2,Europa,Asado
+Ensalada de pasta vainilla vegetariano,Primero,305,12.0,14.9,8.6,2.2,Oceania,Cocido
+Sopa miso fresa integral,Primero,426,9.2,21.7,7.9,5.8,Asia,Cocido
+Pollo asado manzana integral,Segundo,302,43.1,10.4,19.5,2.9,Asia,Cocido
+Salmon al horno limon alto en fibra,Segundo,391,30.4,27.9,34.5,2.9,Africa,Crudo
+Chuletas de cerdo naranja alto en fibra,Segundo,290,47.3,6.7,24.4,2.3,Europa,Horno
+Lomo de res manzana bajo en grasas,Segundo,410,40.3,22.9,12.6,1.5,Asia,Crudo
+Pescado frito limon sin azucar,Segundo,603,35.6,12.0,31.5,4.7,Asia,Frito
+Estofado de ternera naranja alto en fibra,Segundo,311,21.2,19.0,12.6,0.6,Oceania,Crudo
+Paella naranja vegetariano,Segundo,299,19.5,9.8,24.5,4.4,America,Horno
+Fajitas de pollo naranja alto en fibra,Segundo,493,46.6,25.8,25.0,3.4,America,Crudo
+Tacos de pescado limon alto en fibra,Segundo,689,25.4,15.6,34.6,1.3,Africa,Cocido
+Hamburguesa casera manzana sin azucar,Segundo,580,15.1,28.8,37.8,2.0,Oceania,Crudo
+Curry de pollo vainilla sin azucar,Segundo,502,41.5,19.4,14.2,2.5,Europa,Asado
+Pollo al curry naranja alto en fibra,Segundo,520,16.0,13.7,36.3,0.2,Oceania,Asado
+Filete de pescado naranja vegetariano,Segundo,561,30.7,10.7,39.8,1.0,Oceania,Cocido
+Carne guisada vainilla integral,Segundo,283,31.4,25.5,28.7,1.9,Europa,Frito
+Costillas de cerdo chocolate alto en fibra,Segundo,447,41.9,9.5,36.3,1.5,Europa,Cocido
+Arroz con pollo naranja bajo en grasas,Segundo,685,37.9,14.7,25.8,4.1,America,Asado
+Lasaña fresa bajo en grasas,Segundo,341,49.9,16.9,30.8,4.8,Europa,Horno
+Pizza margarita vainilla alto en fibra,Segundo,666,18.0,24.8,15.6,4.7,Asia,Crudo
+Pizza de pepperoni fresa alto en fibra,Segundo,388,18.2,14.0,10.0,4.8,Asia,Horno
+Pasta boloñesa limon alto en fibra,Segundo,331,31.0,23.7,28.5,2.1,Africa,Crudo
+Pastel de chocolate naranja bajo en grasas,Postre,426,2.8,50.3,18.5,3.2,Asia,Horno
+Helado de vainilla coco vegetariano,Postre,500,6.4,37.9,13.1,4.9,Oceania,Horno
+Tarta de manzana manzana sin azucar,Postre,206,6.7,47.9,24.8,2.7,Asia,Horno
+Flan limon alto en fibra,Postre,352,4.1,68.5,29.2,1.1,Africa,Horno
+Brownie fresa sin gluten,Postre,208,6.0,70.9,19.6,4.7,America,Cocido
+Mousse de limon vainilla sin gluten,Postre,676,7.5,30.6,16.8,4.0,America,Frito
+Galletas de avena vainilla vegetariano,Postre,658,2.4,50.0,13.0,1.6,Africa,Crudo
+Pan dulce coco sin gluten,Postre,414,7.4,66.5,23.3,2.3,America,Frito
+Churros naranja integral,Postre,657,5.8,44.4,13.3,4.0,Africa,Frito
+Arroz con leche limon sin azucar,Postre,253,4.6,31.5,20.6,3.7,Europa,Asado
+Pastel de zanahoria naranja sin gluten,Postre,468,3.4,34.9,16.7,3.4,Europa,Asado
+Helado de fresa vainilla vegetariano,Postre,413,5.2,45.8,7.8,4.1,America,Crudo
+Tarta de queso naranja integral,Postre,257,3.4,41.1,16.2,2.5,Oceania,Horno
+Panna cotta fresa bajo en grasas,Postre,375,5.2,65.5,24.7,4.6,Asia,Frito
+Crema catalana naranja integral,Postre,645,3.5,53.4,5.5,1.7,Oceania,Horno
+Galletas de chocolate vainilla vegetariano,Postre,362,4.3,35.8,22.8,3.4,Asia,Horno
+Pastel selva negra vainilla alto en fibra,Postre,252,2.4,66.9,20.1,3.9,Oceania,Frito
+Cheesecake de limon mango sin gluten,Postre,577,6.5,58.2,17.5,2.3,Asia,Cocido
+Yogur natural chocolate bajo en grasas,Postre,305,3.3,63.4,8.1,1.1,Asia,Asado
+Yogur de frutas manzana bajo en grasas,Postre,431,2.1,58.5,14.0,1.2,Africa,Asado
+Sopa de verduras naranja bajo en grasas,Primero,223,5.8,20.1,3.8,9.6,Asia,Asado
+Ensalada Cesar coco alto en fibra,Primero,469,10.3,21.6,8.3,7.7,America,Horno
+Crema de calabaza vainilla bajo en grasas,Primero,348,10.2,39.7,14.0,7.8,America,Horno
+Minestrone coco sin gluten,Primero,637,8.0,15.3,6.7,6.5,Oceania,Frito
+Gazpacho mango bajo en grasas,Primero,604,13.5,11.8,13.1,3.1,Asia,Cocido
+Sopa de pollo limon sin azucar,Primero,157,12.9,23.8,5.0,3.7,Africa,Cocido
+Caldo gallego coco vegetariano,Primero,607,5.2,37.2,12.7,2.8,Europa,Crudo
+Salmorejo manzana bajo en grasas,Primero,387,12.9,23.2,7.5,8.6,Africa,Asado
+Crema de esparragos mango alto en fibra,Primero,157,10.1,11.0,3.5,2.1,Oceania,Horno
+Consome coco sin azucar,Primero,213,9.2,16.9,2.7,6.0,Oceania,Crudo
+Ensalada griega mango alto en fibra,Primero,220,7.5,26.2,10.9,2.1,Asia,Crudo
+Ensalada caprese fresa sin gluten,Primero,420,5.4,13.4,10.6,4.6,Europa,Asado
+Crema de champiñones coco sin azucar,Primero,630,9.2,29.4,12.0,2.5,Africa,Frito
+Vichyssoise fresa sin gluten,Primero,399,8.5,33.7,9.5,5.0,America,Cocido
+Sopa de lentejas fresa sin azucar,Primero,426,14.9,15.6,10.1,7.4,Asia,Crudo
+Ensalada rusa limon vegetariano,Primero,501,5.8,21.5,2.9,8.4,Asia,Cocido
+Crema de zanahoria mango alto en fibra,Primero,305,7.5,15.3,4.1,3.8,America,Horno
+Ensalada de quinoa manzana alto en fibra,Primero,210,8.4,14.9,5.7,4.9,Asia,Cocido
+Ensalada de pasta manzana vegetariano,Primero,640,7.3,23.3,2.7,6.8,Africa,Frito
+Sopa miso limon integral,Primero,493,6.6,11.5,2.5,8.4,Europa,Asado
+Pollo asado limon alto en fibra,Segundo,531,43.3,17.4,36.4,4.1,Africa,Cocido
+Salmon al horno mango alto en fibra,Segundo,597,34.7,22.1,13.6,4.2,America,Horno
+Chuletas de cerdo vainilla alto en fibra,Segundo,223,20.3,5.1,15.4,1.4,America,Crudo
+Lomo de res vainilla vegetariano,Segundo,525,40.8,25.4,36.8,2.4,Africa,Cocido
+Pescado frito chocolate bajo en grasas,Segundo,406,44.5,12.4,10.4,4.1,America,Frito
+Estofado de ternera chocolate integral,Segundo,500,33.5,18.2,14.0,3.1,America,Horno
+Paella limon bajo en grasas,Segundo,163,47.9,22.0,29.3,4.4,America,Horno
+Fajitas de pollo mango sin azucar,Segundo,312,16.3,17.2,13.3,2.9,Oceania,Horno
+Tacos de pescado coco integral,Segundo,247,48.7,18.8,17.3,1.3,Africa,Asado
+Hamburguesa casera coco sin azucar,Segundo,375,35.4,16.6,14.0,0.6,America,Cocido
+Curry de pollo mango sin azucar,Segundo,631,41.3,23.2,37.2,1.2,America,Cocido
+Pollo al curry coco integral,Segundo,438,31.3,26.5,25.0,2.5,America,Asado
+Filete de pescado vainilla vegetariano,Segundo,222,34.7,12.3,26.3,2.9,Asia,Crudo
+Carne guisada mango integral,Segundo,369,46.2,22.9,16.7,3.1,America,Crudo
+Costillas de cerdo vainilla bajo en grasas,Segundo,492,44.8,12.4,20.7,2.5,Africa,Asado
+Arroz con pollo naranja vegetariano,Segundo,674,23.9,9.9,36.0,3.8,Africa,Crudo
+Lasaña fresa sin azucar,Segundo,492,46.4,28.5,26.5,4.7,Africa,Horno
+Pizza margarita mango bajo en grasas,Segundo,624,47.9,11.3,36.8,1.0,Africa,Crudo
+Pizza de pepperoni mango integral,Segundo,401,44.1,27.2,33.8,0.8,Oceania,Cocido
+Pasta boloñesa coco vegetariano,Segundo,599,40.1,28.3,36.8,3.2,Africa,Cocido
+Pastel de chocolate vainilla integral,Postre,363,7.1,51.4,29.4,3.3,Asia,Cocido
+Helado de vainilla mango integral,Postre,621,5.0,42.5,8.9,1.9,America,Cocido
+Tarta de manzana naranja bajo en grasas,Postre,386,5.5,62.9,15.3,4.7,Oceania,Frito
+Flan naranja sin gluten,Postre,198,5.7,44.4,23.4,2.9,Africa,Asado
+Brownie naranja sin gluten,Postre,265,2.9,68.9,27.8,4.7,America,Frito
+Mousse de limon coco vegetariano,Postre,284,5.1,44.9,6.2,2.2,Africa,Crudo
+Galletas de avena mango sin gluten,Postre,338,7.1,54.0,16.8,3.5,Asia,Horno
+Pan dulce fresa sin azucar,Postre,624,2.0,63.6,15.6,2.5,Asia,Cocido
+Churros naranja sin azucar,Postre,436,2.0,66.9,8.4,1.2,Europa,Crudo
+Arroz con leche chocolate alto en fibra,Postre,585,2.7,71.5,18.3,1.7,Africa,Cocido
+Pastel de zanahoria fresa sin azucar,Postre,602,7.7,50.0,6.2,2.0,Africa,Cocido
+Helado de fresa fresa sin gluten,Postre,182,5.0,62.2,21.6,4.5,Oceania,Cocido
+Tarta de queso manzana bajo en grasas,Postre,282,2.0,41.5,9.4,1.1,Europa,Asado
+Panna cotta vainilla sin azucar,Postre,165,7.5,54.6,14.6,4.2,Europa,Frito
+Crema catalana coco alto en fibra,Postre,201,5.7,35.2,23.9,4.5,America,Asado
+Galletas de chocolate coco vegetariano,Postre,657,2.9,43.5,7.6,2.8,Africa,Crudo
+Pastel selva negra vainilla alto en fibra,Postre,301,5.4,43.9,20.0,4.3,Oceania,Frito
+Cheesecake de limon mango alto en fibra,Postre,658,5.2,71.0,19.1,1.5,America,Asado
+Yogur natural vainilla integral,Postre,593,4.7,66.9,20.7,4.2,Oceania,Horno
+Yogur de frutas chocolate alto en fibra,Postre,672,4.3,58.3,9.3,4.9,Asia,Frito
+Sopa de verduras naranja vegetariano,Primero,649,6.7,23.7,9.7,5.9,Oceania,Horno
+Ensalada Cesar chocolate vegetariano,Primero,442,7.3,10.8,12.9,3.6,Europa,Frito
+Crema de calabaza mango vegetariano,Primero,381,11.6,27.3,5.3,4.0,Europa,Asado
+Minestrone chocolate bajo en grasas,Primero,610,10.7,38.4,6.8,6.1,America,Cocido
+Gazpacho coco vegetariano,Primero,649,14.7,20.9,2.8,7.2,Africa,Frito
+Sopa de pollo manzana sin gluten,Primero,370,12.7,10.8,8.8,4.5,Asia,Asado
+Caldo gallego chocolate sin gluten,Primero,462,12.1,33.4,11.1,4.5,Oceania,Asado
+Salmorejo manzana vegetariano,Primero,337,14.8,22.3,9.0,7.3,Asia,Cocido
+Crema de esparragos limon sin gluten,Primero,192,14.8,38.9,3.8,5.8,Africa,Crudo
+Consome chocolate vegetariano,Primero,212,9.6,14.1,4.8,3.9,Asia,Crudo
+Ensalada griega naranja integral,Primero,193,7.9,20.9,12.9,3.5,Oceania,Crudo
+Ensalada caprese limon sin gluten,Primero,372,9.2,20.4,4.4,2.4,Oceania,Crudo
+Crema de champiñones vainilla sin gluten,Primero,444,14.5,38.6,10.5,7.3,America,Horno
+Vichyssoise mango sin azucar,Primero,410,7.0,24.8,13.6,4.4,America,Crudo
+Sopa de lentejas manzana sin gluten,Primero,542,5.5,33.0,13.3,9.8,Asia,Crudo
+Ensalada rusa fresa sin gluten,Primero,435,5.2,22.5,2.1,4.8,Oceania,Frito
+Crema de zanahoria manzana alto en fibra,Primero,262,9.9,38.7,3.2,2.6,Asia,Horno
+Ensalada de quinoa vainilla integral,Primero,459,5.7,27.5,8.3,5.1,Africa,Crudo
+Ensalada de pasta chocolate sin gluten,Primero,438,6.3,30.2,10.3,4.8,Asia,Frito
+Sopa miso fresa integral,Primero,516,12.3,31.4,14.4,3.1,Europa,Crudo
+Pollo asado coco bajo en grasas,Segundo,498,19.9,12.6,15.2,3.5,Oceania,Frito
+Salmon al horno limon sin gluten,Segundo,292,27.8,15.8,11.4,4.5,Africa,Cocido
+Chuletas de cerdo coco sin azucar,Segundo,591,18.2,9.6,20.8,3.7,Oceania,Frito
+Lomo de res coco sin azucar,Segundo,457,23.5,26.6,22.7,4.3,Oceania,Horno
+Pescado frito manzana bajo en grasas,Segundo,481,30.1,22.1,29.7,2.2,Africa,Cocido
+Estofado de ternera manzana integral,Segundo,562,44.9,7.0,24.9,2.6,Oceania,Cocido
+Paella limon alto en fibra,Segundo,153,36.9,20.9,35.8,2.6,Asia,Frito
+Fajitas de pollo fresa sin azucar,Segundo,673,18.0,12.2,20.4,4.2,Africa,Crudo
+Tacos de pescado fresa alto en fibra,Segundo,438,31.9,23.9,19.6,4.0,Europa,Crudo
+Hamburguesa casera limon vegetariano,Segundo,442,36.0,10.0,39.9,1.4,Africa,Frito
+Curry de pollo limon bajo en grasas,Segundo,386,27.6,26.8,36.9,2.2,Europa,Cocido
+Pollo al curry limon integral,Segundo,158,16.5,19.2,18.8,4.5,Asia,Cocido
+Filete de pescado fresa sin azucar,Segundo,412,46.9,25.4,12.1,3.2,Asia,Frito
+Carne guisada coco alto en fibra,Segundo,397,47.6,23.4,25.1,3.7,Oceania,Cocido
+Costillas de cerdo manzana integral,Segundo,495,22.9,8.4,37.0,0.4,America,Frito
+Arroz con pollo coco alto en fibra,Segundo,387,47.9,26.6,12.2,3.3,Europa,Frito
+Lasaña mango alto en fibra,Segundo,631,29.1,20.1,22.4,1.6,America,Asado
+Pizza margarita vainilla alto en fibra,Segundo,524,32.8,12.2,39.7,2.4,Africa,Asado
+Pizza de pepperoni chocolate sin gluten,Segundo,514,15.0,17.4,39.6,1.8,Asia,Crudo
+Pasta boloñesa naranja alto en fibra,Segundo,408,36.8,21.2,35.6,2.0,Oceania,Horno
+Pastel de chocolate chocolate integral,Postre,292,4.0,62.3,19.5,3.2,Oceania,Asado
+Helado de vainilla naranja bajo en grasas,Postre,630,6.2,37.9,13.2,2.3,Europa,Frito
+Tarta de manzana fresa sin azucar,Postre,274,5.2,69.8,10.6,2.0,Europa,Cocido
+Flan limon integral,Postre,536,4.1,71.1,23.7,1.7,Africa,Horno
+Brownie vainilla alto en fibra,Postre,484,4.9,64.8,20.3,1.8,Europa,Crudo
+Mousse de limon vainilla vegetariano,Postre,640,7.7,71.8,24.6,4.4,America,Crudo
+Galletas de avena chocolate sin gluten,Postre,462,2.6,54.2,11.6,1.9,Asia,Cocido
+Pan dulce manzana vegetariano,Postre,263,6.6,62.3,22.7,1.4,America,Crudo
+Churros limon vegetariano,Postre,588,7.1,43.0,28.1,4.7,Europa,Cocido
+Arroz con leche coco bajo en grasas,Postre,674,3.4,75.0,10.2,5.0,Oceania,Crudo
+Pastel de zanahoria coco alto en fibra,Postre,391,4.3,76.2,19.9,2.9,Europa,Frito
+Helado de fresa mango sin gluten,Postre,662,7.4,44.3,14.7,3.3,Africa,Frito
+Tarta de queso vainilla vegetariano,Postre,654,4.2,32.7,5.7,3.7,Africa,Horno
+Panna cotta mango sin azucar,Postre,525,7.7,75.7,13.7,3.2,Asia,Cocido
+Crema catalana coco bajo en grasas,Postre,271,6.8,67.2,26.2,4.6,Africa,Asado
+Galletas de chocolate chocolate bajo en grasas,Postre,257,7.8,61.9,17.7,4.0,Africa,Frito
+Pastel selva negra limon bajo en grasas,Postre,162,7.8,47.8,29.2,2.6,Africa,Crudo
+Cheesecake de limon naranja alto en fibra,Postre,473,4.4,57.1,29.8,4.5,Asia,Horno
+Yogur natural coco bajo en grasas,Postre,163,4.1,41.6,14.7,2.3,America,Horno
+Yogur de frutas manzana sin gluten,Postre,691,6.6,76.8,25.5,2.5,Oceania,Horno
+Sopa de verduras chocolate alto en fibra,Primero,694,11.4,12.1,11.8,5.7,Oceania,Horno
+Ensalada Cesar vainilla sin gluten,Primero,386,9.3,25.1,14.4,4.0,America,Cocido
+Crema de calabaza fresa sin gluten,Primero,298,7.3,34.3,11.3,2.0,America,Crudo
+Minestrone vainilla vegetariano,Primero,557,12.2,11.3,13.5,8.0,America,Frito
+Gazpacho manzana alto en fibra,Primero,160,5.2,39.9,4.9,2.9,Asia,Frito
+Sopa de pollo manzana vegetariano,Primero,199,12.5,12.7,8.5,3.5,Asia,Asado
+Caldo gallego vainilla integral,Primero,200,11.3,25.8,6.4,8.5,Oceania,Frito
+Salmorejo naranja integral,Primero,203,9.7,15.8,11.0,6.2,Africa,Crudo
+Crema de esparragos naranja bajo en grasas,Primero,624,6.2,19.6,5.9,7.6,Oceania,Crudo
+Consome chocolate sin azucar,Primero,577,8.4,36.4,7.1,5.9,America,Asado
+Ensalada griega limon alto en fibra,Primero,299,9.5,21.3,8.3,5.2,America,Cocido
+Ensalada caprese manzana integral,Primero,273,5.4,13.3,13.2,9.5,America,Cocido
+Crema de champiñones limon bajo en grasas,Primero,643,10.6,38.5,7.9,2.0,Africa,Cocido
+Vichyssoise fresa vegetariano,Primero,267,12.5,12.3,13.2,9.0,Oceania,Crudo
+Sopa de lentejas mango integral,Primero,509,14.5,30.5,11.4,4.7,America,Asado
+Ensalada rusa chocolate alto en fibra,Primero,247,14.5,24.8,13.8,7.6,Europa,Asado
+Crema de zanahoria naranja alto en fibra,Primero,473,9.9,11.6,7.7,8.6,Asia,Horno
+Ensalada de quinoa limon integral,Primero,425,13.0,13.7,8.8,7.4,America,Horno
+Ensalada de pasta vainilla integral,Primero,550,14.9,25.6,3.7,4.9,Asia,Horno
+Sopa miso limon sin azucar,Primero,606,12.5,26.7,5.2,2.8,Africa,Frito
+Pollo asado coco sin azucar,Segundo,340,39.6,14.1,32.7,2.1,America,Asado
+Salmon al horno manzana alto en fibra,Segundo,293,45.5,21.7,36.0,3.7,Oceania,Frito
+Chuletas de cerdo naranja sin azucar,Segundo,275,27.7,25.5,27.0,4.5,Europa,Horno
+Lomo de res mango bajo en grasas,Segundo,459,32.4,15.4,19.0,4.4,Asia,Cocido
+Pescado frito fresa sin azucar,Segundo,581,45.1,11.2,13.6,0.7,Europa,Horno
+Estofado de ternera naranja sin gluten,Segundo,344,40.7,21.7,31.4,1.7,Europa,Horno
+Paella naranja alto en fibra,Segundo,489,34.0,26.7,25.0,4.6,Africa,Crudo
+Fajitas de pollo limon integral,Segundo,416,30.8,23.7,39.0,4.4,America,Cocido
+Tacos de pescado mango alto en fibra,Segundo,325,40.5,5.3,34.9,2.7,America,Cocido
+Hamburguesa casera limon bajo en grasas,Segundo,587,29.9,14.2,17.8,4.6,Oceania,Frito
+Curry de pollo chocolate sin azucar,Segundo,636,36.2,25.3,34.8,4.3,Europa,Asado
+Pollo al curry fresa bajo en grasas,Segundo,191,34.2,25.3,12.2,4.5,Asia,Frito
+Filete de pescado chocolate integral,Segundo,519,40.0,5.5,33.8,0.6,America,Horno
+Carne guisada limon integral,Segundo,549,44.7,6.2,13.0,3.4,Asia,Asado
+Costillas de cerdo fresa integral,Segundo,224,18.7,20.0,33.2,1.3,Africa,Frito
+Arroz con pollo vainilla vegetariano,Segundo,229,46.3,25.3,25.3,1.4,Asia,Crudo
+Lasaña vainilla integral,Segundo,197,25.4,24.9,29.7,3.0,Asia,Crudo
+Pizza margarita limon sin gluten,Segundo,210,33.2,7.5,19.8,4.5,Oceania,Asado
+Pizza de pepperoni manzana integral,Segundo,584,38.8,17.3,22.4,3.2,Europa,Crudo
+Pasta boloñesa manzana sin azucar,Segundo,507,38.9,15.9,37.8,1.6,America,Cocido
+Pastel de chocolate vainilla sin gluten,Postre,655,6.1,72.2,6.9,2.8,America,Frito
+Helado de vainilla chocolate alto en fibra,Postre,672,7.2,51.5,9.8,4.6,Europa,Crudo
+Tarta de manzana vainilla sin gluten,Postre,688,3.5,72.6,9.6,1.5,America,Crudo
+Flan limon integral,Postre,412,6.1,66.4,11.6,1.0,Africa,Crudo
+Brownie naranja sin gluten,Postre,678,6.3,78.5,20.4,4.1,Europa,Horno
+Mousse de limon mango integral,Postre,538,2.9,77.3,29.3,3.2,America,Crudo
+Galletas de avena coco vegetariano,Postre,477,7.4,39.2,16.4,1.5,Oceania,Crudo
+Pan dulce mango sin azucar,Postre,252,3.6,71.3,9.8,2.6,Africa,Frito
+Churros coco vegetariano,Postre,667,5.8,78.7,25.3,1.9,Oceania,Horno
+Arroz con leche limon sin azucar,Postre,537,7.5,56.9,28.2,2.1,Europa,Asado
+Pastel de zanahoria mango bajo en grasas,Postre,572,2.6,75.8,22.9,1.5,America,Horno
+Helado de fresa chocolate bajo en grasas,Postre,610,5.8,65.9,25.7,1.3,Europa,Asado
+Tarta de queso limon integral,Postre,523,3.2,65.2,19.6,3.7,Oceania,Frito
+Panna cotta mango vegetariano,Postre,401,6.7,30.8,15.5,3.3,Europa,Asado
+Crema catalana vainilla alto en fibra,Postre,407,3.7,67.0,27.1,3.5,Europa,Frito
+Galletas de chocolate fresa alto en fibra,Postre,361,5.7,73.8,17.9,2.7,Europa,Horno
+Pastel selva negra naranja sin gluten,Postre,290,4.0,35.3,6.0,4.1,Europa,Horno
+Cheesecake de limon vainilla sin azucar,Postre,471,4.2,37.9,10.8,2.9,America,Frito
+Yogur natural manzana sin azucar,Postre,301,5.2,71.9,22.0,3.3,Asia,Cocido
+Yogur de frutas vainilla sin gluten,Postre,269,7.3,69.5,15.1,1.1,Asia,Cocido
+Sopa de verduras mango bajo en grasas,Primero,426,11.6,20.3,9.9,3.1,Africa,Crudo
+Ensalada Cesar limon integral,Primero,262,7.0,28.6,8.8,5.1,Asia,Cocido
+Crema de calabaza vainilla vegetariano,Primero,455,14.2,19.4,2.3,3.5,Africa,Asado
+Minestrone vainilla integral,Primero,630,13.2,38.6,6.5,2.5,America,Crudo
+Gazpacho mango integral,Primero,281,11.8,27.4,12.5,3.6,America,Frito
+Sopa de pollo vainilla alto en fibra,Primero,280,5.9,30.8,8.4,6.5,Africa,Asado
+Caldo gallego coco bajo en grasas,Primero,394,13.8,13.5,13.9,8.4,Europa,Crudo
+Salmorejo chocolate sin azucar,Primero,683,8.9,32.9,2.1,8.4,Europa,Frito
+Crema de esparragos vainilla integral,Primero,179,6.5,21.1,7.0,8.7,Asia,Cocido
+Consome mango alto en fibra,Primero,527,8.2,38.1,11.2,2.2,Asia,Frito
+Ensalada griega limon bajo en grasas,Primero,325,11.0,14.1,10.9,5.9,America,Asado
+Ensalada caprese limon bajo en grasas,Primero,479,11.4,34.7,12.5,4.6,Asia,Crudo
+Crema de champiñones coco bajo en grasas,Primero,295,12.1,12.8,11.8,3.6,America,Horno
+Vichyssoise manzana alto en fibra,Primero,466,9.9,20.1,2.2,8.6,Europa,Crudo
+Sopa de lentejas fresa sin gluten,Primero,276,5.7,26.3,3.5,10.0,Oceania,Horno
+Ensalada rusa vainilla sin gluten,Primero,403,5.6,11.1,14.7,8.8,America,Cocido
+Crema de zanahoria chocolate bajo en grasas,Primero,539,13.6,23.7,14.0,4.5,Africa,Cocido
+Ensalada de quinoa limon alto en fibra,Primero,629,5.2,36.7,14.4,4.3,America,Crudo
+Ensalada de pasta limon sin azucar,Primero,568,11.8,34.8,7.3,3.6,Asia,Frito
+Sopa miso chocolate alto en fibra,Primero,467,5.4,21.9,4.6,8.7,Africa,Crudo
+Pollo asado vainilla alto en fibra,Segundo,569,19.0,9.6,16.4,3.3,Europa,Asado
+Salmon al horno chocolate sin azucar,Segundo,577,42.0,22.6,19.7,0.6,America,Horno
+Chuletas de cerdo chocolate vegetariano,Segundo,242,33.6,6.7,33.9,0.7,Asia,Horno
+Lomo de res mango sin azucar,Segundo,561,39.9,17.7,22.4,0.9,Europa,Crudo
+Pescado frito chocolate sin gluten,Segundo,419,28.3,18.1,10.4,0.7,Africa,Horno
+Estofado de ternera naranja integral,Segundo,308,28.2,29.6,19.6,2.2,America,Horno
+Paella manzana vegetariano,Segundo,591,21.8,14.4,25.1,2.7,America,Asado
+Fajitas de pollo limon sin gluten,Segundo,506,44.4,10.0,22.9,3.6,America,Horno
+Tacos de pescado vainilla vegetariano,Segundo,264,32.8,10.4,21.6,4.3,Asia,Cocido
+Hamburguesa casera manzana bajo en grasas,Segundo,529,33.1,9.8,33.0,1.7,Oceania,Cocido
+Curry de pollo coco bajo en grasas,Segundo,493,29.2,17.6,15.6,3.9,Asia,Horno
+Pollo al curry manzana alto en fibra,Segundo,652,41.9,24.6,39.3,0.0,Asia,Horno
+Filete de pescado coco alto en fibra,Segundo,287,40.3,13.0,13.6,4.8,Oceania,Frito
+Carne guisada coco bajo en grasas,Segundo,568,37.2,19.8,12.3,4.3,Africa,Frito
+Costillas de cerdo mango alto en fibra,Segundo,521,37.6,24.8,28.4,2.4,Asia,Horno
+Arroz con pollo manzana alto en fibra,Segundo,427,17.1,10.1,36.6,3.5,Europa,Crudo
+Lasaña mango sin gluten,Segundo,623,36.9,22.5,26.9,0.3,Africa,Asado
+Pizza margarita coco bajo en grasas,Segundo,662,27.0,5.8,24.0,0.4,Europa,Crudo
+Pizza de pepperoni vainilla sin azucar,Segundo,356,43.4,29.4,21.2,3.6,Oceania,Frito
+Pasta boloñesa limon vegetariano,Segundo,337,45.8,18.2,22.3,4.7,Europa,Horno
+Pastel de chocolate vainilla bajo en grasas,Postre,289,7.2,35.8,15.1,3.8,America,Horno
+Helado de vainilla chocolate sin gluten,Postre,192,2.8,49.4,6.8,2.8,Europa,Asado
+Tarta de manzana fresa alto en fibra,Postre,396,6.9,38.0,12.3,4.1,Africa,Crudo
+Flan vainilla sin azucar,Postre,682,5.3,38.9,13.7,3.9,Oceania,Asado
+Brownie limon integral,Postre,530,5.7,78.6,29.0,3.5,Africa,Horno
+Mousse de limon vainilla vegetariano,Postre,619,6.8,76.2,17.2,1.1,Africa,Frito
+Galletas de avena limon sin gluten,Postre,624,7.1,39.2,23.1,1.0,Oceania,Crudo
+Pan dulce mango vegetariano,Postre,310,6.9,31.7,28.2,4.4,Africa,Frito
+Churros coco alto en fibra,Postre,641,7.6,31.8,22.6,2.7,Asia,Horno
+Arroz con leche chocolate vegetariano,Postre,215,2.6,78.3,5.9,2.9,Europa,Cocido
+Pastel de zanahoria naranja alto en fibra,Postre,512,2.2,77.3,26.4,1.4,Asia,Crudo
+Helado de fresa chocolate sin azucar,Postre,566,2.0,31.3,22.1,2.7,Oceania,Horno
+Tarta de queso mango sin gluten,Postre,593,5.5,53.9,28.4,4.3,Oceania,Cocido
+Panna cotta mango integral,Postre,650,3.5,34.1,28.2,3.4,Europa,Horno
+Crema catalana fresa sin gluten,Postre,340,2.9,57.2,13.5,3.5,Oceania,Frito
+Galletas de chocolate limon alto en fibra,Postre,664,4.8,58.1,28.9,1.0,America,Cocido
+Pastel selva negra naranja sin gluten,Postre,317,6.7,40.9,7.1,2.3,Africa,Cocido
+Cheesecake de limon naranja sin azucar,Postre,214,6.2,51.8,12.3,4.2,Europa,Cocido
+Yogur natural coco sin azucar,Postre,666,6.9,33.2,21.6,1.1,Europa,Cocido
+Yogur de frutas vainilla alto en fibra,Postre,394,2.6,46.9,6.2,2.2,Europa,Frito
+Sopa de verduras mango sin azucar,Primero,690,14.2,10.5,14.8,6.7,America,Cocido
+Ensalada Cesar vainilla bajo en grasas,Primero,397,12.0,28.6,13.4,7.9,America,Cocido
+Crema de calabaza fresa alto en fibra,Primero,324,10.3,23.5,9.3,7.7,Oceania,Cocido
+Minestrone mango sin azucar,Primero,634,10.7,10.5,14.8,4.9,Asia,Cocido
+Gazpacho limon bajo en grasas,Primero,569,9.4,12.0,6.3,9.2,Asia,Cocido
+Sopa de pollo mango bajo en grasas,Primero,163,13.8,19.1,7.5,4.1,Asia,Crudo
+Caldo gallego vainilla bajo en grasas,Primero,223,10.2,24.9,13.0,5.8,Europa,Crudo
+Salmorejo vainilla sin azucar,Primero,414,6.5,39.1,13.0,4.4,Asia,Crudo
+Crema de esparragos chocolate sin gluten,Primero,594,14.2,20.9,6.4,7.6,America,Cocido
+Consome limon alto en fibra,Primero,505,14.2,17.3,5.8,9.0,Europa,Asado
+Ensalada griega mango integral,Primero,349,10.0,34.8,14.1,5.2,America,Cocido
+Ensalada caprese mango sin gluten,Primero,203,8.8,14.9,13.0,7.7,Africa,Cocido
+Crema de champiñones naranja sin azucar,Primero,275,6.4,36.7,13.0,5.3,Africa,Cocido
+Vichyssoise fresa sin gluten,Primero,262,10.3,27.2,3.2,4.2,America,Horno
+Sopa de lentejas manzana sin azucar,Primero,697,12.4,29.1,12.8,4.2,Africa,Cocido
+Ensalada rusa chocolate alto en fibra,Primero,647,5.5,22.1,4.9,4.9,Asia,Cocido
+Crema de zanahoria mango bajo en grasas,Primero,167,6.5,33.9,10.6,4.6,Oceania,Frito
+Ensalada de quinoa manzana bajo en grasas,Primero,467,5.8,38.3,8.0,4.1,Asia,Frito
+Ensalada de pasta vainilla vegetariano,Primero,231,10.4,25.5,2.2,2.4,Africa,Frito
+Sopa miso vainilla alto en fibra,Primero,654,8.6,22.6,14.5,6.9,Oceania,Crudo
+Pollo asado fresa bajo en grasas,Segundo,156,21.2,24.6,20.7,2.8,Oceania,Horno
+Salmon al horno chocolate sin gluten,Segundo,697,47.8,21.2,20.4,0.5,Oceania,Cocido
+Chuletas de cerdo limon sin gluten,Segundo,384,48.2,29.1,11.8,0.5,Africa,Asado
+Lomo de res mango vegetariano,Segundo,518,43.1,28.4,27.8,4.4,America,Frito
+Pescado frito manzana integral,Segundo,433,35.2,16.3,24.4,0.6,Africa,Asado
+Estofado de ternera coco integral,Segundo,248,16.8,13.5,26.8,2.0,America,Crudo
+Paella vainilla sin gluten,Segundo,186,45.2,9.8,16.6,1.4,Africa,Cocido
+Fajitas de pollo vainilla alto en fibra,Segundo,518,35.0,22.7,10.6,2.1,Asia,Frito
+Tacos de pescado limon alto en fibra,Segundo,361,45.9,11.3,14.2,3.1,America,Asado
+Hamburguesa casera mango vegetariano,Segundo,426,47.5,28.8,23.6,3.5,Europa,Cocido
+Curry de pollo manzana sin azucar,Segundo,666,17.8,24.5,24.1,2.9,America,Cocido
+Pollo al curry coco bajo en grasas,Segundo,217,20.5,8.2,13.1,2.3,Europa,Crudo
+Filete de pescado limon integral,Segundo,224,35.4,23.7,10.0,4.6,Africa,Frito
+Carne guisada chocolate integral,Segundo,669,29.6,12.6,35.1,3.5,Oceania,Crudo
+Costillas de cerdo chocolate alto en fibra,Segundo,422,35.3,15.5,37.0,0.4,Asia,Asado
+Arroz con pollo naranja bajo en grasas,Segundo,594,45.7,23.8,25.1,1.6,Europa,Asado
+Lasaña naranja alto en fibra,Segundo,198,18.7,5.0,13.0,2.4,Oceania,Frito
+Pizza margarita manzana bajo en grasas,Segundo,429,48.8,18.6,12.3,0.4,Oceania,Horno
+Pizza de pepperoni naranja sin gluten,Segundo,401,26.9,17.6,35.7,4.1,Oceania,Frito
+Pasta boloñesa vainilla bajo en grasas,Segundo,368,37.1,24.7,23.4,4.0,Oceania,Asado
+Pastel de chocolate limon integral,Postre,259,4.7,77.5,26.0,3.6,America,Horno
+Helado de vainilla manzana sin gluten,Postre,196,7.8,33.3,12.9,1.4,America,Asado
+Tarta de manzana coco bajo en grasas,Postre,588,2.8,43.0,5.3,4.1,Oceania,Frito
+Flan limon vegetariano,Postre,477,4.7,71.0,12.7,1.1,Asia,Asado
+Brownie vainilla integral,Postre,408,3.8,72.5,9.1,3.1,Oceania,Horno
+Mousse de limon limon alto en fibra,Postre,555,7.9,66.7,10.6,4.1,Oceania,Cocido
+Galletas de avena mango alto en fibra,Postre,320,2.8,70.8,21.1,3.6,Europa,Crudo
+Pan dulce coco sin azucar,Postre,243,3.4,59.0,15.0,2.7,Oceania,Asado
+Churros coco alto en fibra,Postre,409,7.6,30.4,24.6,2.4,Europa,Horno
+Arroz con leche vainilla vegetariano,Postre,427,3.0,49.8,19.5,4.1,Asia,Crudo
+Pastel de zanahoria vainilla bajo en grasas,Postre,516,4.5,53.9,22.2,1.0,America,Cocido
+Helado de fresa fresa sin gluten,Postre,230,3.6,50.5,24.6,2.5,Africa,Cocido
+Tarta de queso mango sin azucar,Postre,187,4.4,55.7,9.0,2.6,Oceania,Asado
+Panna cotta vainilla sin gluten,Postre,174,5.7,50.7,11.4,1.5,Europa,Horno
+Crema catalana limon alto en fibra,Postre,601,4.4,50.6,29.7,1.5,Asia,Crudo
+Galletas de chocolate limon vegetariano,Postre,422,3.8,35.4,8.1,4.6,America,Crudo
+Pastel selva negra vainilla bajo en grasas,Postre,499,7.5,34.9,11.4,2.2,Europa,Horno
+Cheesecake de limon naranja sin azucar,Postre,690,2.2,35.8,11.9,4.4,Oceania,Asado
+Yogur natural chocolate sin azucar,Postre,270,6.5,54.2,21.3,1.5,America,Crudo
+Yogur de frutas mango sin azucar,Postre,685,5.2,50.2,6.3,1.6,Africa,Crudo
+Sopa de verduras limon bajo en grasas,Primero,229,14.3,36.8,2.4,6.5,Europa,Frito
+Ensalada Cesar vainilla alto en fibra,Primero,240,10.4,38.5,8.7,7.4,Oceania,Horno
+Crema de calabaza coco bajo en grasas,Primero,521,8.8,27.1,14.9,7.8,Africa,Cocido
+Minestrone vainilla alto en fibra,Primero,232,12.2,25.1,14.8,2.9,Asia,Asado
+Gazpacho mango integral,Primero,272,9.4,36.5,11.3,5.7,Oceania,Asado
+Sopa de pollo vainilla vegetariano,Primero,367,11.9,13.2,14.5,3.4,Asia,Crudo
+Caldo gallego coco vegetariano,Primero,610,7.6,14.7,8.8,9.8,Oceania,Asado
+Salmorejo mango bajo en grasas,Primero,597,5.6,34.4,11.2,5.4,Oceania,Cocido
+Crema de esparragos mango alto en fibra,Primero,533,10.1,33.8,2.7,3.0,America,Frito
+Consome fresa vegetariano,Primero,469,13.7,23.1,5.5,2.5,Europa,Horno
+Ensalada griega fresa alto en fibra,Primero,283,11.7,13.8,7.2,7.5,Asia,Horno
+Ensalada caprese vainilla alto en fibra,Primero,348,8.6,37.5,7.8,7.1,Africa,Asado
+Crema de champiñones vainilla sin gluten,Primero,654,14.4,32.1,10.3,9.9,Europa,Frito
+Vichyssoise manzana alto en fibra,Primero,468,14.3,39.5,14.6,3.1,Africa,Asado
+Sopa de lentejas mango sin azucar,Primero,162,13.3,27.8,9.1,4.3,America,Horno
+Ensalada rusa chocolate sin gluten,Primero,441,10.5,24.5,10.6,2.9,Europa,Asado
+Crema de zanahoria coco alto en fibra,Primero,567,7.9,10.9,6.8,6.1,America,Frito
+Ensalada de quinoa limon sin azucar,Primero,272,14.7,20.8,5.3,4.8,Asia,Frito
+Ensalada de pasta fresa sin gluten,Primero,161,13.5,29.6,7.7,6.1,America,Frito
+Sopa miso mango bajo en grasas,Primero,337,9.0,38.2,10.7,8.1,America,Crudo
+Pollo asado vainilla vegetariano,Segundo,675,47.9,12.5,14.1,4.0,Europa,Horno
+Salmon al horno limon sin azucar,Segundo,489,26.8,12.2,34.6,4.2,Asia,Frito
+Chuletas de cerdo limon integral,Segundo,679,31.0,7.7,19.3,3.9,Oceania,Asado
+Lomo de res manzana integral,Segundo,502,27.2,13.9,34.8,4.4,Oceania,Cocido
+Pescado frito chocolate bajo en grasas,Segundo,509,16.6,13.5,35.8,3.2,Asia,Crudo
+Estofado de ternera naranja bajo en grasas,Segundo,348,19.6,5.2,23.7,3.7,Asia,Cocido
+Paella limon bajo en grasas,Segundo,490,27.3,6.1,15.2,5.0,Oceania,Crudo
+Fajitas de pollo naranja bajo en grasas,Segundo,537,16.9,13.8,37.8,1.1,Europa,Frito
+Tacos de pescado coco vegetariano,Segundo,266,49.3,20.0,22.1,2.2,Africa,Cocido
+Hamburguesa casera manzana sin gluten,Segundo,622,23.6,27.8,18.4,2.9,Europa,Cocido
+Curry de pollo mango sin azucar,Segundo,697,38.0,27.6,34.6,0.7,Oceania,Frito
+Pollo al curry fresa sin azucar,Segundo,632,38.4,17.6,17.8,4.4,Oceania,Horno
+Filete de pescado manzana sin azucar,Segundo,512,16.7,14.7,13.7,1.8,Asia,Cocido
+Carne guisada limon sin azucar,Segundo,445,42.6,7.2,24.5,1.8,Europa,Horno
+Costillas de cerdo limon sin azucar,Segundo,496,29.8,13.8,16.0,0.6,Oceania,Frito
+Arroz con pollo coco sin gluten,Segundo,208,44.2,26.2,37.0,1.7,America,Frito
+Lasaña chocolate sin azucar,Segundo,338,26.9,24.1,14.9,2.4,Europa,Horno
+Pizza margarita limon alto en fibra,Segundo,378,20.4,25.4,34.2,2.9,Africa,Asado
+Pizza de pepperoni fresa integral,Segundo,189,49.6,8.1,20.6,1.7,Africa,Cocido
+Pasta boloñesa limon alto en fibra,Segundo,235,17.9,13.6,26.7,3.2,Africa,Horno
+Pastel de chocolate limon alto en fibra,Postre,529,6.3,39.6,19.0,2.6,Europa,Asado
+Helado de vainilla fresa vegetariano,Postre,247,7.4,61.5,7.9,4.2,Asia,Asado
+Tarta de manzana manzana alto en fibra,Postre,673,2.5,50.7,22.6,2.6,Asia,Crudo
+Flan mango bajo en grasas,Postre,373,5.4,48.2,19.3,2.4,Asia,Asado
+Brownie mango vegetariano,Postre,196,3.7,66.3,22.0,2.8,Asia,Asado
+Mousse de limon fresa bajo en grasas,Postre,179,5.6,59.6,13.5,2.2,Europa,Crudo
+Galletas de avena fresa alto en fibra,Postre,579,5.5,59.0,13.6,3.7,Europa,Cocido
+Pan dulce naranja sin gluten,Postre,501,3.3,57.4,26.5,4.0,Asia,Frito
+Churros limon vegetariano,Postre,667,2.2,56.7,16.6,1.5,Asia,Crudo
+Arroz con leche chocolate sin azucar,Postre,664,5.9,37.0,21.1,2.4,Asia,Frito
+Pastel de zanahoria vainilla integral,Postre,288,2.7,48.0,6.8,3.4,Africa,Crudo
+Helado de fresa manzana alto en fibra,Postre,255,7.5,65.2,8.3,3.7,Asia,Horno
+Tarta de queso limon integral,Postre,697,5.0,59.6,12.7,2.4,Africa,Crudo
+Panna cotta mango sin azucar,Postre,449,5.6,55.8,28.3,4.7,Oceania,Horno
+Crema catalana manzana sin gluten,Postre,172,3.8,65.4,14.7,3.1,Asia,Horno
+Galletas de chocolate naranja vegetariano,Postre,543,3.7,48.0,29.3,4.0,America,Horno
+Pastel selva negra naranja alto en fibra,Postre,338,2.6,32.3,12.5,2.9,America,Cocido
+Cheesecake de limon mango alto en fibra,Postre,494,6.5,61.9,5.1,1.6,Africa,Frito
+Yogur natural manzana alto en fibra,Postre,525,4.9,61.2,14.1,1.2,Africa,Crudo
+Yogur de frutas vainilla bajo en grasas,Postre,392,6.1,41.0,29.9,2.0,Africa,Cocido
+Sopa de verduras limon vegetariano,Primero,633,9.1,11.8,10.9,4.7,Europa,Crudo
+Ensalada Cesar limon sin gluten,Primero,386,8.4,30.0,7.0,8.7,Europa,Asado
+Crema de calabaza naranja bajo en grasas,Primero,202,11.0,33.9,5.2,3.2,Asia,Horno
+Minestrone coco alto en fibra,Primero,164,9.4,10.4,5.4,3.1,Europa,Crudo
+Gazpacho vainilla sin gluten,Primero,414,11.6,17.9,5.4,4.9,Africa,Horno
+Sopa de pollo naranja alto en fibra,Primero,523,12.5,25.9,12.7,7.3,Oceania,Frito
+Caldo gallego chocolate alto en fibra,Primero,423,10.1,30.6,10.5,6.0,Europa,Crudo
+Salmorejo chocolate vegetariano,Primero,573,13.8,11.6,11.6,3.9,Africa,Horno
+Crema de esparragos vainilla sin gluten,Primero,301,5.9,35.2,5.9,9.9,Europa,Crudo
+Consome coco integral,Primero,257,7.1,37.8,6.4,6.8,Oceania,Crudo
+Ensalada griega mango sin gluten,Primero,648,14.7,24.7,11.5,6.9,Oceania,Cocido
+Ensalada caprese coco integral,Primero,394,6.7,15.7,3.1,4.8,Asia,Cocido
+Crema de champiñones limon alto en fibra,Primero,578,7.7,19.1,9.2,6.9,Europa,Cocido
+Vichyssoise mango integral,Primero,226,8.1,29.5,3.5,8.1,Africa,Crudo
+Sopa de lentejas limon vegetariano,Primero,420,14.4,20.6,4.3,6.9,Africa,Crudo
+Ensalada rusa vainilla bajo en grasas,Primero,627,11.8,32.7,14.4,5.5,Africa,Crudo
+Crema de zanahoria chocolate sin gluten,Primero,666,6.6,12.1,6.8,8.8,Africa,Cocido
+Ensalada de quinoa naranja sin gluten,Primero,479,13.7,26.2,14.3,6.1,Asia,Crudo
+Ensalada de pasta limon bajo en grasas,Primero,547,6.6,37.1,2.5,8.1,Europa,Frito
+Sopa miso manzana sin gluten,Primero,430,12.9,27.5,2.9,3.7,America,Horno
+Pollo asado naranja sin gluten,Segundo,339,33.7,27.9,39.6,2.4,Oceania,Horno
+Salmon al horno limon sin gluten,Segundo,216,23.9,13.9,36.0,0.4,Asia,Asado
+Chuletas de cerdo vainilla vegetariano,Segundo,421,17.9,10.3,36.2,3.0,Africa,Crudo
+Lomo de res limon vegetariano,Segundo,435,44.7,29.7,34.7,3.6,Europa,Cocido
+Pescado frito chocolate vegetariano,Segundo,642,35.2,13.2,13.7,2.5,Oceania,Cocido
+Estofado de ternera manzana vegetariano,Segundo,597,42.2,18.1,15.1,2.9,America,Frito
+Paella vainilla integral,Segundo,664,47.8,28.6,28.6,3.9,Africa,Asado
+Fajitas de pollo naranja sin azucar,Segundo,409,17.8,25.6,14.1,0.8,Oceania,Frito
+Tacos de pescado manzana integral,Segundo,438,27.7,15.3,37.5,4.3,America,Frito
+Hamburguesa casera fresa integral,Segundo,170,33.2,12.8,13.5,4.8,America,Asado
+Curry de pollo chocolate bajo en grasas,Segundo,571,23.9,7.9,35.2,4.7,Oceania,Crudo
+Pollo al curry chocolate alto en fibra,Segundo,644,27.8,19.6,22.7,2.6,Oceania,Frito
+Filete de pescado manzana sin azucar,Segundo,349,19.9,15.9,24.4,1.4,America,Frito
+Carne guisada chocolate sin azucar,Segundo,225,37.3,23.1,15.2,2.9,Europa,Horno
+Costillas de cerdo vainilla alto en fibra,Segundo,440,48.0,15.6,12.5,1.9,Africa,Crudo
+Arroz con pollo vainilla bajo en grasas,Segundo,284,23.6,14.1,26.0,2.1,Europa,Crudo
+Lasaña vainilla integral,Segundo,210,42.1,17.7,28.7,1.5,Europa,Horno
+Pizza margarita coco sin azucar,Segundo,632,31.1,9.1,21.5,3.9,Asia,Crudo
+Pizza de pepperoni manzana alto en fibra,Segundo,390,47.8,11.4,22.0,1.5,Asia,Asado
+Pasta boloñesa fresa alto en fibra,Segundo,241,28.0,9.7,23.7,1.2,Africa,Frito
+Pastel de chocolate naranja vegetariano,Postre,689,5.8,72.8,6.1,2.4,Oceania,Asado
+Helado de vainilla chocolate sin azucar,Postre,171,6.0,61.1,23.0,2.7,Africa,Frito
+Tarta de manzana limon bajo en grasas,Postre,695,5.3,39.6,10.6,3.1,Africa,Horno
+Flan vainilla sin gluten,Postre,563,4.7,31.0,13.1,2.3,America,Frito
+Brownie coco integral,Postre,492,5.1,33.6,10.7,4.2,Oceania,Frito
+Mousse de limon fresa sin azucar,Postre,326,5.6,56.0,18.0,1.2,Oceania,Cocido
+Galletas de avena mango integral,Postre,363,7.7,56.4,13.4,4.0,America,Crudo
+Pan dulce vainilla integral,Postre,373,7.5,53.0,9.0,1.9,Oceania,Cocido
+Churros chocolate sin azucar,Postre,232,4.4,32.0,19.3,3.4,Asia,Asado
+Arroz con leche naranja vegetariano,Postre,694,4.2,50.6,24.9,2.0,Oceania,Asado
+Pastel de zanahoria coco integral,Postre,237,4.4,78.5,5.1,3.6,Africa,Crudo
+Helado de fresa vainilla vegetariano,Postre,213,5.5,68.5,29.5,3.1,Asia,Asado
+Tarta de queso fresa sin azucar,Postre,237,3.1,61.2,7.5,4.1,Asia,Crudo
+Panna cotta vainilla bajo en grasas,Postre,298,7.0,36.7,22.6,4.2,Africa,Horno
+Crema catalana fresa integral,Postre,299,4.4,32.1,13.0,1.6,Asia,Crudo
+Galletas de chocolate mango sin azucar,Postre,579,6.6,41.1,20.9,2.4,Africa,Cocido
+Pastel selva negra chocolate alto en fibra,Postre,488,6.6,67.0,8.2,4.1,Europa,Frito
+Cheesecake de limon vainilla integral,Postre,693,3.2,75.5,5.0,4.5,Europa,Horno
+Yogur natural manzana alto en fibra,Postre,266,7.6,73.9,10.8,2.9,Asia,Frito
+Yogur de frutas manzana sin azucar,Postre,666,7.2,75.9,26.5,3.3,Europa,Frito
+Sopa de verduras mango alto en fibra,Primero,428,11.9,37.7,10.9,4.2,Europa,Horno
+Ensalada Cesar fresa sin gluten,Primero,573,14.3,16.0,3.3,4.4,America,Cocido
+Crema de calabaza vainilla sin azucar,Primero,192,8.8,34.9,15.0,2.5,Africa,Horno
+Minestrone limon bajo en grasas,Primero,519,8.5,22.3,11.9,6.2,Asia,Frito
+Gazpacho coco sin azucar,Primero,194,8.8,38.9,10.4,5.2,Europa,Horno
+Sopa de pollo coco sin azucar,Primero,497,13.2,29.3,12.1,7.6,Africa,Frito
+Caldo gallego vainilla integral,Primero,453,13.8,29.8,10.6,5.9,America,Horno
+Salmorejo manzana integral,Primero,215,14.9,28.3,3.1,8.8,Africa,Crudo
+Crema de esparragos chocolate alto en fibra,Primero,326,5.8,36.4,8.6,6.4,Oceania,Cocido
+Consome limon vegetariano,Primero,642,12.7,10.3,8.4,3.5,Europa,Crudo
+Ensalada griega limon bajo en grasas,Primero,594,8.6,20.5,9.5,6.7,Asia,Asado
+Ensalada caprese limon bajo en grasas,Primero,361,14.1,12.0,9.0,5.2,Asia,Asado
+Crema de champiñones coco integral,Primero,432,10.0,12.8,15.0,4.1,America,Crudo
+Vichyssoise chocolate alto en fibra,Primero,577,7.3,36.9,13.0,8.0,Europa,Frito
+Sopa de lentejas manzana alto en fibra,Primero,478,10.6,29.9,5.4,8.2,Europa,Frito
+Ensalada rusa coco integral,Primero,537,7.2,25.4,2.5,5.0,America,Crudo
+Crema de zanahoria fresa bajo en grasas,Primero,409,11.8,24.6,13.8,7.3,Africa,Asado
+Ensalada de quinoa manzana integral,Primero,236,13.1,16.9,9.2,2.5,Oceania,Cocido
+Ensalada de pasta limon sin azucar,Primero,276,5.9,13.5,9.1,3.6,Oceania,Frito
+Sopa miso chocolate bajo en grasas,Primero,242,8.7,36.3,8.3,6.9,Asia,Cocido
+Pollo asado limon integral,Segundo,252,32.0,21.0,24.4,0.9,Europa,Frito
+Salmon al horno vainilla sin gluten,Segundo,166,18.2,8.5,17.2,1.7,Europa,Crudo
+Chuletas de cerdo chocolate sin azucar,Segundo,488,46.1,19.0,27.8,0.2,Asia,Frito
+Lomo de res vainilla alto en fibra,Segundo,397,24.0,24.3,35.6,3.0,Asia,Crudo
+Pescado frito limon vegetariano,Segundo,247,30.1,26.3,21.5,4.2,Europa,Horno
+Estofado de ternera vainilla bajo en grasas,Segundo,178,45.0,12.4,27.3,0.6,Africa,Horno
+Paella chocolate alto en fibra,Segundo,225,16.5,11.5,37.6,4.7,Asia,Horno
+Fajitas de pollo manzana bajo en grasas,Segundo,603,21.0,17.6,15.1,0.8,Asia,Asado
+Tacos de pescado chocolate integral,Segundo,494,46.6,27.8,31.8,3.6,Africa,Horno
+Hamburguesa casera chocolate alto en fibra,Segundo,321,24.2,9.9,21.0,3.6,Oceania,Crudo
+Curry de pollo mango vegetariano,Segundo,184,36.3,17.0,32.4,3.4,Africa,Cocido
+Pollo al curry mango integral,Segundo,610,27.5,22.5,34.9,0.7,Oceania,Frito
+Filete de pescado chocolate vegetariano,Segundo,214,42.4,10.0,19.0,4.0,Europa,Asado
+Carne guisada chocolate alto en fibra,Segundo,644,34.1,11.9,35.1,2.0,Asia,Cocido
+Costillas de cerdo fresa alto en fibra,Segundo,150,28.8,13.1,18.9,3.9,America,Crudo
+Arroz con pollo manzana vegetariano,Segundo,431,21.6,27.3,32.9,3.6,America,Horno
+Lasaña limon sin azucar,Segundo,276,34.2,11.4,22.7,4.0,Africa,Horno
+Pizza margarita mango sin gluten,Segundo,276,35.2,14.2,25.4,4.7,Oceania,Crudo
+Pizza de pepperoni manzana alto en fibra,Segundo,235,33.7,23.9,28.4,3.8,Asia,Frito
+Pasta boloñesa naranja sin gluten,Segundo,188,44.3,23.1,23.1,1.7,Oceania,Asado
+Pastel de chocolate coco bajo en grasas,Postre,489,2.2,39.5,20.7,1.7,Oceania,Cocido
+Helado de vainilla chocolate sin azucar,Postre,553,7.7,33.5,9.2,1.2,Africa,Horno
+Tarta de manzana mango integral,Postre,381,4.3,55.7,21.8,1.2,Oceania,Horno
+Flan chocolate bajo en grasas,Postre,331,4.7,50.8,29.8,3.1,Africa,Cocido
+Brownie limon bajo en grasas,Postre,359,3.0,42.9,6.4,3.3,Africa,Horno
+Mousse de limon fresa sin gluten,Postre,219,4.1,56.3,18.9,2.3,Europa,Crudo
+Galletas de avena mango integral,Postre,231,4.1,35.9,10.2,3.5,America,Cocido
+Pan dulce chocolate sin azucar,Postre,186,6.6,31.5,19.9,2.1,Africa,Crudo
+Churros vainilla integral,Postre,645,6.4,66.5,9.4,1.9,Oceania,Frito
+Arroz con leche coco integral,Postre,318,3.8,50.5,23.4,4.6,Africa,Crudo
+Pastel de zanahoria mango vegetariano,Postre,488,2.4,73.7,14.9,4.8,Africa,Crudo
+Helado de fresa coco vegetariano,Postre,362,5.6,75.8,26.5,2.7,America,Crudo
+Tarta de queso coco vegetariano,Postre,447,2.7,33.0,26.0,4.6,Asia,Frito
+Panna cotta naranja alto en fibra,Postre,490,7.4,37.9,26.1,3.3,Africa,Crudo
+Crema catalana limon bajo en grasas,Postre,463,7.0,77.2,11.0,3.9,Africa,Horno
+Galletas de chocolate vainilla integral,Postre,573,2.2,77.3,15.8,3.7,Oceania,Frito
+Pastel selva negra coco vegetariano,Postre,489,3.1,60.5,5.9,4.6,Asia,Asado
+Cheesecake de limon limon bajo en grasas,Postre,472,2.1,42.7,5.2,3.2,Europa,Asado
+Yogur natural chocolate sin gluten,Postre,529,7.0,76.3,27.9,1.4,Europa,Frito
+Yogur de frutas fresa integral,Postre,551,5.4,67.5,21.7,3.3,Oceania,Horno
+Sopa de verduras vainilla bajo en grasas,Primero,481,13.8,20.2,4.8,7.3,Africa,Asado
+Ensalada Cesar fresa alto en fibra,Primero,619,14.2,34.8,4.2,4.2,Europa,Crudo
+Crema de calabaza fresa integral,Primero,517,11.1,12.5,5.7,2.3,Africa,Cocido
+Minestrone vainilla bajo en grasas,Primero,412,8.4,31.3,11.7,6.1,Oceania,Horno
+Gazpacho mango sin gluten,Primero,320,6.6,10.9,9.9,2.1,Africa,Frito
+Sopa de pollo naranja integral,Primero,297,13.2,36.4,4.8,9.1,America,Cocido
+Caldo gallego vainilla alto en fibra,Primero,481,10.4,28.4,13.6,4.4,Asia,Asado
+Salmorejo mango vegetariano,Primero,227,14.7,19.6,6.9,6.6,Oceania,Frito
+Crema de esparragos manzana sin azucar,Primero,532,6.1,21.2,5.2,7.7,America,Crudo
+Consome fresa alto en fibra,Primero,536,7.2,10.3,14.5,9.4,America,Horno
+Ensalada griega coco integral,Primero,523,10.4,17.3,10.5,5.0,America,Asado
+Ensalada caprese fresa bajo en grasas,Primero,581,8.9,17.6,8.3,4.6,Asia,Crudo
+Crema de champiñones vainilla integral,Primero,545,13.3,22.2,4.3,4.9,Oceania,Asado
+Vichyssoise limon bajo en grasas,Primero,315,12.4,27.2,4.4,7.4,Oceania,Crudo
+Sopa de lentejas coco integral,Primero,531,8.9,12.9,12.4,9.8,Oceania,Crudo
+Ensalada rusa chocolate integral,Primero,609,14.0,16.7,12.7,6.4,America,Horno
+Crema de zanahoria vainilla sin azucar,Primero,383,8.6,20.2,2.9,2.6,America,Cocido
+Ensalada de quinoa manzana bajo en grasas,Primero,440,9.2,18.0,5.9,3.6,Oceania,Horno
+Ensalada de pasta chocolate bajo en grasas,Primero,377,5.8,24.3,8.6,7.5,Oceania,Crudo
+Sopa miso vainilla integral,Primero,391,7.3,20.4,3.9,6.9,America,Cocido
+Pollo asado coco alto en fibra,Segundo,492,45.0,29.5,32.4,3.4,Asia,Horno
+Salmon al horno fresa vegetariano,Segundo,439,47.4,9.7,27.7,3.4,Oceania,Horno
+Chuletas de cerdo coco bajo en grasas,Segundo,157,48.5,28.2,36.6,4.1,Asia,Asado
+Lomo de res coco sin azucar,Segundo,487,36.2,15.2,18.6,4.9,Africa,Asado
+Pescado frito fresa vegetariano,Segundo,278,22.3,5.2,10.6,3.4,Asia,Cocido
+Estofado de ternera naranja bajo en grasas,Segundo,589,27.5,6.7,19.9,0.1,Europa,Frito
+Paella vainilla vegetariano,Segundo,533,49.2,16.1,23.0,2.2,Asia,Horno
+Fajitas de pollo chocolate sin gluten,Segundo,264,16.2,22.6,12.1,3.1,Asia,Cocido
+Tacos de pescado fresa sin gluten,Segundo,359,20.6,18.1,20.2,0.3,America,Frito
+Hamburguesa casera chocolate integral,Segundo,233,41.9,7.9,35.0,3.9,Europa,Cocido
+Curry de pollo fresa integral,Segundo,315,26.3,9.1,26.3,2.3,Oceania,Cocido
+Pollo al curry coco vegetariano,Segundo,434,17.3,24.4,30.1,1.4,America,Asado
+Filete de pescado manzana bajo en grasas,Segundo,199,30.2,24.7,32.6,0.3,Africa,Cocido
+Carne guisada manzana sin gluten,Segundo,514,19.4,17.0,18.9,4.8,Asia,Horno
+Costillas de cerdo coco vegetariano,Segundo,520,30.9,7.5,28.5,4.3,Africa,Frito
+Arroz con pollo naranja alto en fibra,Segundo,241,23.8,7.9,10.7,1.7,America,Asado
+Lasaña mango bajo en grasas,Segundo,472,28.2,25.0,22.1,1.4,Europa,Frito
+Pizza margarita fresa integral,Segundo,366,32.5,7.6,31.4,3.6,Africa,Horno
+Pizza de pepperoni limon bajo en grasas,Segundo,589,40.0,22.0,32.9,1.3,Europa,Asado
+Pasta boloñesa coco sin azucar,Segundo,644,34.1,17.6,22.0,0.9,Europa,Crudo
+Pastel de chocolate mango vegetariano,Postre,315,4.2,31.0,11.6,4.0,Africa,Horno
+Helado de vainilla naranja sin azucar,Postre,308,6.5,66.4,15.3,2.9,Europa,Frito
+Tarta de manzana limon alto en fibra,Postre,598,5.9,32.6,30.0,1.3,America,Asado
+Flan fresa sin azucar,Postre,678,6.2,78.2,7.6,1.2,Europa,Frito
+Brownie coco sin azucar,Postre,517,4.5,30.3,11.8,1.4,America,Frito
+Mousse de limon fresa sin azucar,Postre,309,3.8,66.3,8.2,1.7,Africa,Asado
+Galletas de avena fresa bajo en grasas,Postre,516,7.2,61.4,12.1,1.7,Asia,Frito
+Pan dulce naranja sin gluten,Postre,248,2.7,66.6,8.9,4.4,Europa,Asado
+Churros mango sin azucar,Postre,375,7.2,68.0,22.8,1.8,Oceania,Asado
+Arroz con leche chocolate sin gluten,Postre,642,6.3,51.7,26.1,3.8,Oceania,Cocido
+Pastel de zanahoria vainilla alto en fibra,Postre,444,2.3,52.8,25.1,3.9,Europa,Crudo
+Helado de fresa fresa sin azucar,Postre,227,6.4,37.2,20.6,4.7,Europa,Cocido
+Tarta de queso chocolate integral,Postre,604,3.4,68.0,21.6,1.1,America,Crudo
+Panna cotta coco integral,Postre,556,7.1,66.5,27.9,2.4,Africa,Horno
+Crema catalana fresa bajo en grasas,Postre,548,5.1,59.6,24.5,4.5,Europa,Frito
+Galletas de chocolate coco bajo en grasas,Postre,151,2.7,62.9,16.5,3.9,Asia,Cocido
+Pastel selva negra limon vegetariano,Postre,658,5.3,79.9,17.7,2.5,Africa,Asado
+Cheesecake de limon vainilla sin azucar,Postre,683,7.2,47.3,16.7,1.8,Africa,Cocido
+Yogur natural fresa sin gluten,Postre,454,2.5,73.7,27.2,2.1,Africa,Cocido
+Yogur de frutas fresa integral,Postre,557,2.7,70.1,23.9,4.6,Asia,Asado
+Sopa de verduras limon sin azucar,Primero,597,10.0,20.9,14.6,6.7,America,Frito
+Ensalada Cesar manzana sin gluten,Primero,164,11.1,14.5,5.3,6.6,Africa,Cocido
+Crema de calabaza fresa sin azucar,Primero,613,14.5,14.4,14.0,7.7,Africa,Cocido
+Minestrone limon sin gluten,Primero,564,13.4,32.5,5.9,2.3,Asia,Asado
+Gazpacho limon integral,Primero,227,12.4,23.8,7.5,5.5,Europa,Frito
+Sopa de pollo vainilla bajo en grasas,Primero,580,7.0,36.6,4.6,8.1,Oceania,Cocido
+Caldo gallego coco alto en fibra,Primero,596,5.4,10.7,9.8,6.9,America,Cocido
+Salmorejo manzana bajo en grasas,Primero,327,9.7,33.6,13.4,3.8,Europa,Cocido
+Crema de esparragos coco bajo en grasas,Primero,403,12.9,39.5,12.5,5.7,Africa,Frito
+Consome chocolate bajo en grasas,Primero,522,10.7,38.8,12.5,7.8,Asia,Horno
+Ensalada griega vainilla sin gluten,Primero,663,6.8,25.3,4.3,9.8,Asia,Horno
+Ensalada caprese mango bajo en grasas,Primero,592,9.4,11.4,12.9,9.2,Oceania,Frito
+Crema de champiñones vainilla sin gluten,Primero,564,8.0,10.5,14.0,9.0,Europa,Frito
+Vichyssoise limon vegetariano,Primero,391,8.9,15.9,13.9,4.8,Europa,Crudo
+Sopa de lentejas naranja integral,Primero,288,6.9,24.7,9.6,3.5,Africa,Frito
+Ensalada rusa naranja bajo en grasas,Primero,460,5.4,21.6,13.4,4.1,Europa,Cocido
+Crema de zanahoria coco sin gluten,Primero,285,14.6,10.6,5.6,8.4,America,Cocido
+Ensalada de quinoa naranja vegetariano,Primero,255,5.6,35.0,5.5,2.1,Africa,Cocido
+Ensalada de pasta manzana bajo en grasas,Primero,690,8.9,11.6,14.6,5.1,Oceania,Asado
+Sopa miso naranja bajo en grasas,Primero,424,8.4,34.3,5.7,9.3,Asia,Frito
+Pollo asado mango alto en fibra,Segundo,618,42.4,28.5,11.7,2.7,Africa,Horno
+Salmon al horno limon sin azucar,Segundo,527,47.4,7.4,26.8,2.7,Europa,Frito
+Chuletas de cerdo mango sin azucar,Segundo,231,28.2,20.1,38.8,4.2,Africa,Asado
+Lomo de res mango sin gluten,Segundo,423,23.4,18.9,13.7,2.9,Asia,Crudo
+Pescado frito fresa alto en fibra,Segundo,397,28.8,11.8,34.6,0.8,Oceania,Crudo
+Estofado de ternera naranja vegetariano,Segundo,603,44.7,14.8,31.2,0.2,Asia,Cocido
+Paella limon vegetariano,Segundo,308,31.6,29.2,15.5,3.8,Oceania,Cocido
+Fajitas de pollo mango sin gluten,Segundo,353,31.5,26.1,21.4,0.2,Oceania,Cocido
+Tacos de pescado manzana sin azucar,Segundo,305,34.6,26.3,30.4,2.3,Europa,Frito
+Hamburguesa casera manzana vegetariano,Segundo,450,28.7,18.7,21.5,0.4,Oceania,Cocido
+Curry de pollo naranja sin gluten,Segundo,153,31.1,23.0,24.0,1.1,Europa,Horno
+Pollo al curry naranja alto en fibra,Segundo,660,44.9,5.0,26.9,0.8,Europa,Horno
+Filete de pescado coco alto en fibra,Segundo,287,36.8,14.5,21.3,4.0,America,Asado
+Carne guisada vainilla bajo en grasas,Segundo,601,39.4,22.0,18.3,2.4,Oceania,Horno
+Costillas de cerdo fresa integral,Segundo,609,16.7,22.0,11.1,5.0,Oceania,Horno
+Arroz con pollo chocolate sin azucar,Segundo,435,49.8,13.1,29.4,0.2,Asia,Cocido
+Lasaña chocolate vegetariano,Segundo,643,24.8,8.9,13.8,3.8,America,Crudo
+Pizza margarita vainilla integral,Segundo,376,18.5,15.5,32.1,4.3,Oceania,Frito
+Pizza de pepperoni vainilla bajo en grasas,Segundo,643,31.5,16.1,28.7,4.3,Europa,Cocido
+Pasta boloñesa manzana alto en fibra,Segundo,377,41.1,23.5,18.9,4.1,Europa,Crudo
+Pastel de chocolate coco sin gluten,Postre,679,3.8,61.6,20.4,1.5,America,Asado
+Helado de vainilla limon sin azucar,Postre,656,5.3,65.9,16.3,3.6,Africa,Cocido
+Tarta de manzana manzana sin azucar,Postre,346,7.1,59.7,28.3,3.3,Oceania,Asado
+Flan fresa vegetariano,Postre,674,4.1,74.9,5.7,3.3,Oceania,Crudo
+Brownie manzana bajo en grasas,Postre,196,3.3,62.4,23.4,1.3,America,Horno
+Mousse de limon limon sin gluten,Postre,562,7.6,53.5,13.3,1.0,Asia,Cocido
+Galletas de avena mango vegetariano,Postre,533,4.8,40.2,20.7,4.0,Asia,Crudo
+Pan dulce fresa sin gluten,Postre,433,7.7,77.2,25.8,2.3,Africa,Cocido
+Churros manzana vegetariano,Postre,274,7.9,61.7,13.0,1.5,Asia,Crudo
+Arroz con leche fresa bajo en grasas,Postre,409,2.8,53.8,29.0,4.7,Asia,Crudo
+Pastel de zanahoria naranja integral,Postre,419,4.8,70.4,6.5,1.4,Africa,Cocido
+Helado de fresa coco vegetariano,Postre,239,4.7,34.3,15.1,4.3,America,Crudo
+Tarta de queso fresa bajo en grasas,Postre,212,7.5,64.7,25.2,3.7,Asia,Frito
+Panna cotta mango sin gluten,Postre,389,7.6,60.6,10.8,4.0,America,Frito
+Crema catalana fresa vegetariano,Postre,300,4.5,63.0,20.3,4.2,Africa,Asado
+Galletas de chocolate manzana vegetariano,Postre,267,4.8,67.2,24.1,4.1,Oceania,Horno
+Pastel selva negra chocolate sin gluten,Postre,665,5.9,66.8,17.5,2.6,Europa,Frito
+Cheesecake de limon manzana sin azucar,Postre,167,6.2,50.3,13.3,3.8,Africa,Cocido
+Yogur natural chocolate bajo en grasas,Postre,657,6.5,48.5,6.9,4.8,Europa,Frito
+Yogur de frutas manzana sin azucar,Postre,292,4.5,75.6,10.2,4.9,America,Frito
+Sopa de verduras mango sin gluten,Primero,476,10.6,35.1,14.4,2.4,Asia,Crudo
+Ensalada Cesar fresa vegetariano,Primero,660,15.0,23.1,3.8,5.1,Oceania,Cocido
+Crema de calabaza coco bajo en grasas,Primero,350,14.3,36.1,11.0,8.0,Oceania,Crudo
+Minestrone naranja sin azucar,Primero,278,13.6,16.3,8.2,5.9,Africa,Frito
+Gazpacho vainilla alto en fibra,Primero,350,14.2,37.4,9.6,10.0,Europa,Cocido
+Sopa de pollo chocolate sin azucar,Primero,201,12.6,36.0,7.8,5.9,America,Frito
+Caldo gallego limon sin gluten,Primero,471,12.7,14.2,5.7,7.8,America,Cocido
+Salmorejo chocolate alto en fibra,Primero,378,12.4,20.8,4.4,6.9,America,Crudo
+Crema de esparragos coco sin gluten,Primero,647,13.0,10.7,6.4,6.3,Asia,Asado
+Consome naranja sin azucar,Primero,504,15.0,12.6,4.5,7.5,America,Frito
+Ensalada griega mango bajo en grasas,Primero,533,13.0,13.6,9.2,8.6,Oceania,Frito
+Ensalada caprese limon bajo en grasas,Primero,493,8.4,25.6,9.3,8.8,Europa,Horno
+Crema de champiñones naranja sin azucar,Primero,507,9.1,10.6,14.9,9.2,Europa,Asado
+Vichyssoise manzana integral,Primero,344,9.7,22.8,9.6,6.8,Africa,Horno
+Sopa de lentejas manzana integral,Primero,184,7.8,22.5,11.9,7.9,Africa,Cocido
+Ensalada rusa limon sin azucar,Primero,404,7.5,24.0,8.9,8.3,Europa,Crudo
+Crema de zanahoria naranja integral,Primero,548,11.0,39.6,4.5,4.5,Europa,Horno
+Ensalada de quinoa limon alto en fibra,Primero,240,5.3,28.6,3.1,6.4,Oceania,Frito
+Ensalada de pasta vainilla integral,Primero,687,6.5,27.9,7.7,6.7,America,Crudo
+Sopa miso limon vegetariano,Primero,398,11.6,23.0,5.3,3.6,Oceania,Asado
+Pollo asado limon vegetariano,Segundo,259,23.2,21.6,36.2,3.6,Africa,Crudo
+Salmon al horno mango integral,Segundo,498,34.0,20.2,23.4,3.2,America,Cocido
+Chuletas de cerdo limon alto en fibra,Segundo,665,23.7,28.9,35.6,1.6,Asia,Frito
+Lomo de res manzana alto en fibra,Segundo,282,47.6,25.8,32.2,2.8,Asia,Frito
+Pescado frito fresa sin azucar,Segundo,589,47.1,18.1,31.0,3.3,Asia,Cocido
+Estofado de ternera coco vegetariano,Segundo,551,34.3,23.8,28.8,4.2,Oceania,Frito
+Paella naranja vegetariano,Segundo,494,29.9,24.0,35.1,1.8,America,Horno
+Fajitas de pollo chocolate sin gluten,Segundo,196,45.9,11.3,26.1,5.0,Europa,Horno
+Tacos de pescado naranja vegetariano,Segundo,564,26.3,29.9,12.0,4.3,Africa,Frito
+Hamburguesa casera limon integral,Segundo,291,45.1,14.5,34.3,3.1,Europa,Frito
+Curry de pollo fresa sin azucar,Segundo,380,22.1,26.5,35.4,0.8,Oceania,Crudo
+Pollo al curry coco alto en fibra,Segundo,380,27.8,23.3,29.7,0.6,America,Crudo
+Filete de pescado naranja bajo en grasas,Segundo,430,35.6,17.0,19.2,4.4,Africa,Horno
+Carne guisada mango alto en fibra,Segundo,334,23.6,12.1,35.9,3.1,Africa,Asado
+Costillas de cerdo naranja integral,Segundo,594,16.2,26.1,19.5,4.9,Oceania,Asado
+Arroz con pollo naranja alto en fibra,Segundo,587,33.3,7.7,12.7,3.9,Europa,Frito
+Lasaña manzana sin azucar,Segundo,203,18.1,10.0,22.9,1.0,Oceania,Cocido
+Pizza margarita mango integral,Segundo,184,48.7,7.6,20.6,0.9,Asia,Frito
+Pizza de pepperoni mango integral,Segundo,566,31.4,15.7,21.0,2.3,America,Cocido
+Pasta boloñesa mango integral,Segundo,507,30.6,8.9,19.1,3.5,Africa,Frito
+Pastel de chocolate limon sin gluten,Postre,396,7.1,46.7,26.3,4.0,America,Crudo
+Helado de vainilla limon bajo en grasas,Postre,243,6.4,50.6,18.4,3.5,Oceania,Cocido
+Tarta de manzana chocolate sin gluten,Postre,538,6.2,69.7,25.9,2.8,Africa,Horno
+Flan chocolate integral,Postre,413,6.4,56.1,24.3,4.1,Africa,Horno
+Brownie naranja integral,Postre,652,6.2,59.6,22.0,3.6,Oceania,Cocido
+Mousse de limon mango integral,Postre,658,5.6,61.4,27.7,4.2,Asia,Crudo
+Galletas de avena mango alto en fibra,Postre,652,4.4,78.5,18.7,4.8,America,Horno
+Pan dulce manzana sin gluten,Postre,399,5.4,66.3,5.7,3.3,Africa,Crudo
+Churros vainilla sin azucar,Postre,401,7.7,31.2,18.3,4.1,America,Asado
+Arroz con leche limon vegetariano,Postre,331,7.6,68.6,21.4,4.3,Africa,Crudo
+Pastel de zanahoria naranja sin gluten,Postre,211,5.3,60.7,6.8,1.0,Oceania,Cocido
+Helado de fresa fresa vegetariano,Postre,615,4.9,39.1,18.8,1.3,Africa,Asado
+Tarta de queso vainilla vegetariano,Postre,198,4.0,70.2,26.2,4.9,America,Cocido
+Panna cotta naranja integral,Postre,678,4.0,40.9,11.4,1.4,America,Horno
+Crema catalana mango sin azucar,Postre,611,7.5,54.2,25.4,2.2,Africa,Asado
+Galletas de chocolate chocolate integral,Postre,472,3.7,77.1,9.9,4.7,Oceania,Frito
+Pastel selva negra mango sin azucar,Postre,241,5.0,37.8,7.6,1.1,Asia,Frito
+Cheesecake de limon fresa sin gluten,Postre,304,4.5,39.4,10.3,4.5,Asia,Cocido
+Yogur natural coco bajo en grasas,Postre,533,6.7,76.5,8.7,1.4,Africa,Horno
+Yogur de frutas limon bajo en grasas,Postre,272,3.0,58.7,7.4,1.7,Oceania,Crudo
+Sopa de verduras fresa integral,Primero,237,11.5,32.6,12.2,7.1,Oceania,Horno
+Ensalada Cesar naranja vegetariano,Primero,561,8.2,34.4,7.9,9.5,Africa,Cocido
+Crema de calabaza chocolate sin gluten,Primero,175,13.0,24.0,10.9,8.2,Africa,Cocido
+Minestrone mango bajo en grasas,Primero,225,9.0,18.7,5.3,3.9,Asia,Crudo
+Gazpacho fresa alto en fibra,Primero,199,11.3,17.5,4.7,5.7,Europa,Asado
+Sopa de pollo coco alto en fibra,Primero,425,9.5,18.5,2.2,9.6,America,Horno
+Caldo gallego manzana vegetariano,Primero,308,9.7,35.3,14.2,5.6,Asia,Horno
+Salmorejo coco bajo en grasas,Primero,205,14.9,35.9,13.5,7.8,America,Cocido
+Crema de esparragos chocolate integral,Primero,236,11.4,22.6,14.8,3.2,Asia,Horno
+Consome chocolate integral,Primero,279,6.4,13.0,6.7,8.8,Europa,Cocido
+Ensalada griega chocolate integral,Primero,627,10.1,19.2,6.4,8.9,Asia,Horno
+Ensalada caprese chocolate vegetariano,Primero,638,14.1,35.4,10.2,8.3,Europa,Frito
+Crema de champiñones mango sin gluten,Primero,493,10.9,23.8,4.8,4.0,America,Cocido
+Vichyssoise mango integral,Primero,158,12.4,16.8,6.7,5.2,America,Cocido
+Sopa de lentejas naranja alto en fibra,Primero,488,9.6,13.1,13.0,7.4,Africa,Frito
+Ensalada rusa fresa alto en fibra,Primero,281,8.3,27.9,2.8,6.7,America,Crudo
+Crema de zanahoria vainilla integral,Primero,466,8.1,11.4,5.1,3.3,Africa,Crudo
+Ensalada de quinoa coco alto en fibra,Primero,424,10.8,11.2,5.4,9.5,America,Horno
+Ensalada de pasta naranja sin azucar,Primero,678,9.9,23.8,3.0,8.3,America,Asado
+Sopa miso vainilla integral,Primero,199,7.8,29.0,6.8,4.0,Europa,Crudo

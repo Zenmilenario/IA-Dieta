@@ -1,0 +1,146 @@
+{% extends "base.html" %}
+{% block title %}Resultado de Dietas{% endblock %}
+
+{% block content %}
+    <h1 class="mb-3">Resultado de la Generación de Dietas</h1>
+    <p><strong>Calorías deseadas:</strong> {{ calorias }}</p>
+    <p><strong>Restricciones:</strong>
+        {% if restricciones|length > 0 %}
+            {{ restricciones|join(', ') }}
+        {% else %}
+            (Ninguna)
+        {% endif %}
+    </p>
+
+    <hr>
+
+    <!-- Dieta 1 -->
+    <h2>Dieta 1</h2>
+    <p><strong>Total calorías:</strong> {{ total_cal_1 }}</p>
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped align-middle">
+            <thead class="table-dark">
+            <tr>
+                <th>Alimento</th>
+                <th>Calorías</th>
+                <th>Proteínas</th>
+                <th>Carbohidratos</th>
+                <th>Grasas</th>
+                <th>Fibra</th>
+                <th>Categoría Predicha</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for fila in dieta_1 %}
+                <tr>
+                    <td>{{ fila.alimento }}</td>
+                    <td>{{ fila.calorias }}</td>
+                    <td>{{ fila.proteinas }}</td>
+                    <td>{{ fila.carbohidratos }}</td>
+                    <td>{{ fila.grasas }}</td>
+                    <td>{{ fila.fibra }}</td>
+                    <td>{{ fila.categoria_predicha }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <hr>
+
+    <!-- Dieta 2 -->
+    <h2>Dieta 2</h2>
+    <p><strong>Total calorías:</strong> {{ total_cal_2 }}</p>
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped align-middle">
+            <thead class="table-dark">
+            <tr>
+                <th>Alimento</th>
+                <th>Calorías</th>
+                <th>Proteínas</th>
+                <th>Carbohidratos</th>
+                <th>Grasas</th>
+                <th>Fibra</th>
+                <th>Categoría Predicha</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for fila in dieta_2 %}
+                <tr>
+                    <td>{{ fila.alimento }}</td>
+                    <td>{{ fila.calorias }}</td>
+                    <td>{{ fila.proteinas }}</td>
+                    <td>{{ fila.carbohidratos }}</td>
+                    <td>{{ fila.grasas }}</td>
+                    <td>{{ fila.fibra }}</td>
+                    <td>{{ fila.categoria_predicha }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Botón de volver -->
+    <a href="/" class="btn btn-secondary mt-3">Volver al inicio</a>
+
+
+    <hr>
+    <h2>Comparativa de Macronutrientes</h2>
+    <canvas id="myChart" width="400" height="200"></canvas>
+{% endblock %}
+
+{% block extra_scripts %}
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const ctx = document.getElementById('myChart').getContext('2d');
+
+        // Datos de macronutrientes (Dieta 1 y Dieta 2)
+        const prot1 = {{ prot1 | safe }};
+        const carbs1 = {{ carbs1 | safe }};
+        const fat1 = {{ fat1 | safe }};
+        const fib1 = {{ fib1 | safe }};
+
+        const prot2 = {{ prot2 | safe }};
+        const carbs2 = {{ carbs2 | safe }};
+        const fat2 = {{ fat2 | safe }};
+        const fib2 = {{ fib2 | safe }};
+
+
+        const data = {
+            labels: ["Proteínas", "Carbohidratos", "Grasas", "Fibra"],
+            datasets: [
+                {
+                    label: 'Dieta 1',
+                    data: [prot1, carbs1, fat1, fib1],
+                    backgroundColor: 'rgba(54, 162, 235, 0.5)',
+                    borderColor: 'rgba(54, 162, 235, 1)',
+                    borderWidth: 1
+                },
+                {
+                    label: 'Dieta 2',
+                    data: [prot2, carbs2, fat2, fib2],
+                    backgroundColor: 'rgba(255, 99, 132, 0.5)',
+                    borderColor: 'rgba(255, 99, 132, 1)',
+                    borderWidth: 1
+                }
+            ]
+        };
+
+
+        const config = {
+            type: 'bar',
+            data: data,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        };
+
+
+        new Chart(ctx, config);
+    </script>
+{% endblock %}

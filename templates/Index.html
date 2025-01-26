@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% block title %}Inicio - Generador de Dietas{% endblock %}
+
+{% block content %}
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <h1 class="mb-4">Generador de Dietas</h1>
+            <p>Ingrese los datos y presione el botón para generar 2 dietas.</p>
+
+            <form action="/generar_dieta" method="POST">
+                <div class="mb-3">
+                    <label for="calorias_deseadas" class="form-label">Calorías deseadas:</label>
+                    <input
+                            type="number"
+                            id="calorias_deseadas"
+                            name="calorias_deseadas"
+                            value="2000"
+                            min="100"
+                            max="10000"
+                            class="form-control"
+                    />
+                </div>
+
+                <div class="mb-3">
+                    <label for="restricciones" class="form-label">Restricciones (separadas por comas):</label>
+                    <input
+                            type="text"
+                            id="restricciones"
+                            name="restricciones"
+                            placeholder="ej. celiaco, vegano"
+                            class="form-control"
+                    />
+                </div>
+                <div class="mb-3">
+                    <label for="restricciones_adicionales" class="form-label">Restricciones adicionales:</label>
+                    <input
+                            type="text"
+                            id="restricciones_adicionales"
+                            name="restricciones_adicionales"
+                            placeholder="ej. frutos secos, chocolate"
+                            class="form-control"
+                    />
+                </div>
+                <script>
+                    document.querySelector('#calorias_deseadas').addEventListener('input', function () {
+                        const valor = parseInt(this.value);
+                        if (valor < 100 || valor > 10000) {
+                            this.setCustomValidity('Por favor, ingrese un valor entre 100 y 10000.');
+                        } else {
+                            this.setCustomValidity('');
+                        }
+                    });
+                </script>
+
+
+                <button type="submit" class="btn btn-primary">Generar Dietas</button>
+            </form>
+        </div>
+    </div>
+{% endblock %}
